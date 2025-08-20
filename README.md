@@ -1,0 +1,4 @@
+# Documentation for mTeSS-X
+
+Separate the training docs/help content to separate repo, like [IBISBA Handboook](https://ibisba.github.io/workshop/docs/intro.html).
+
