@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Account creation
+    chapters:
+    - file: accounts/user
+    - file: accounts/provider
+  - caption: Content registration
+    chapters:
+    - file: content/auto
+    - file: content/manual
