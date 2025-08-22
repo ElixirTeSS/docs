@@ -4,11 +4,31 @@
 format: jb-book
 root: intro
 parts:
+  - caption: Overview
+    chapters:
+    - file: overview/tess
   - caption: Account creation
     chapters:
     - file: accounts/user
     - file: accounts/provider
+  - caption: Space creation
+    chapters:
+    - file: spaces/intro-spaces
+    - file: spaces/instance-or-space
+    - file: spaces/credit
   - caption: Content registration
     chapters:
     - file: content/auto
+      sections:
+      - file: content/auto-events
+      - file: content/auto-materials
+      - file: content/auto-workflows
+      - file: content/auto-schemas
     - file: content/manual
+      sections:
+      - file: content/learning-paths
+  - caption: Developers
+    chapters:
+    - file: developers/code-data
+    - url: https://github.com/ElixirTeSS/TeSS/tree/master/docs
+      title: Developer guides (on GitHub)

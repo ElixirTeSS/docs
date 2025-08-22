@@ -1,0 +1,1 @@
+# When to choose your own TeSS instance or register a space in TeSSHub
