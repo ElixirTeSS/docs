@@ -11,7 +11,7 @@ This documentation is intended to provide help and information on how to use a t
 :link: overview/tess
 :link-type: doc
 
-{fas}`panorama`  **Overview**
+{fas}`panorama;sd-text-secondary` **Overview**
 ^^^
 
 What is TeSS, definitions of terms.
@@ -21,7 +21,7 @@ What is TeSS, definitions of terms.
 :link: accounts/user
 :link-type: doc
 
-{fas}`user-plus`  **Account creation**
+{fas}`user-plus;sd-text-secondary` **Account creation**
 ^^^
 
 Creating a user account, setting up a content provider.
@@ -31,7 +31,7 @@ Creating a user account, setting up a content provider.
 :link: spaces/intro-spaces
 :link-type: doc
 
-{fas}`boxes-stacked`  **Spaces**
+{fas}`boxes-stacked;sd-text-secondary` **Spaces**
 ^^^
 
 When to set up a TeSS space, how to credit other spaces' materials.
@@ -41,7 +41,7 @@ When to set up a TeSS space, how to credit other spaces' materials.
 :link: content/auto
 :link-type: doc
 
-{fas}`box-open` **Content**
+{fas}`box-open;sd-text-secondary` **Content**
 ^^^
 
 Automatically or manually register events, materials or learning paths.
@@ -51,7 +51,7 @@ Automatically or manually register events, materials or learning paths.
 :link: developers/code-data
 :link-type: doc
 
-{fas}`wrench`  **Developers**
+{fas}`wrench;sd-text-secondary` **Developers**
 ^^^
 
 Configure an API or widget.

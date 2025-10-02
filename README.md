@@ -5,6 +5,7 @@ Separate the training docs/help content to separate repo, like [IBISBA Handboook
 Built using [Jupyter Book 1](https://jupyterbook.org/). For additional guidance, see:
 
 - [Anatomy of a Jupyter Book (TeachBooks.io)](https://teachbooks.io/manual/basic-features/jupyterbook.html)
+- [Sphinx Design (the engine behind Jupyter Book)](https://sphinx-design.readthedocs.io/en/latest/)
 
 To run locally, install Jupyter Book then build:
 ```shell

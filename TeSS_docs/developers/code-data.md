@@ -18,7 +18,7 @@ The source code for TeSS [is available on GitHub](https://github.com/ElixirTeSS/
 
 :::{grid-item-card}
 
-{fas}`plug` **Data**
+{fas}`plug;sd-text-secondary` **Data**
 ^^^
 
 Data in TeSS can be accessed via our [API](#api), under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
