@@ -1,1 +1,3 @@
 # Manual content registration
+```{tableofcontents}
+```

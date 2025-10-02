@@ -1,1 +1,3 @@
 # Automatic content registration
+```{tableofcontents}
+```

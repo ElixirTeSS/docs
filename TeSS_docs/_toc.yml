@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: index
 parts:
   - caption: Overview
     chapters:
@@ -27,6 +27,7 @@ parts:
       - file: content/auto-schemas
     - file: content/manual
       sections:
+      - file: content/manual-events-materials
       - file: content/learning-paths
   - caption: Developers
     chapters:
