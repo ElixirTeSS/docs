@@ -7,6 +7,7 @@ parts:
   - caption: Overview
     chapters:
     - file: overview/tess
+    - file: overview/definitions
   - caption: Account creation
     chapters:
     - file: accounts/user
