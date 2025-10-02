@@ -28,4 +28,4 @@ jobs:
 
       - name: Deploy to GitHub Pages
         run: |
-          ghp-import -n -p -f mTeSS-X_docs/_build/html
+          ghp-import -n -p -f TeSS_docs/_build/html

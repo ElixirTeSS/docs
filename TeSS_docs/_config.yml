@@ -5,7 +5,7 @@
 
 #######################################################################################
 # Book settings
-title                       : mTeSS-X Documentation  # The title of the book. Will be placed in the left navbar.
+title                       : TeSS Platform Documentation  # The title of the book. Will be placed in the left navbar.
 author                      : Phil Reed, Munazah Andrabi, Finn Bacall  # The author of the book
 copyright                   : "2025"  # Copyright year to be placed in the footer
 logo                        : images/logo.png  # A path to the book logo
