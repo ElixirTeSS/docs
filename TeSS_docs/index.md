@@ -77,6 +77,11 @@ TeSS has been funded by:
 
 :::{grid-item}
 :class: justify-content-center
+![European Union flag](images/funding/eu-flag.svg)
+:::
+
+:::{grid-item}
+:class: justify-content-center
 [![ELIXIR Estonia logo](images/funding/elixir-ee.svg)](https://elixir.ut.ee/)
 :::
 
