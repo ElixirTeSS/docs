@@ -72,37 +72,28 @@ TeSS has been funded by:
 
 
 ::::{grid} 2 3 5 6
-:class-container: text-center sd-border-0 
+:class-container: text-center sd-border-0 sd-align-major-justify
 :gutter: 3
 
-:::{grid-item-card}
-:link: https://elixir.ut.ee/
-:link-type: doc
-![ELIXIR Estonia logo](images/funding/elixir-ee.svg)
+:::{grid-item}
+:class: text-center
+[![ELIXIR Estonia logo](images/funding/elixir-ee.svg)](https://elixir.ut.ee/)
 :::
 
-:::{grid-item-card}
-:link: http://elixir-uk.org/
-:link-type: doc
-![ELIXIR United Kingdom logo](images/funding/elixir-uk.svg) 
+:::{grid-item}
+[![ELIXIR United Kingdom logo](images/funding/elixir-uk.svg)](http://elixir-uk.org/)
 :::
 
-:::{grid-item-card}
-:link: http://www.bbsrc.ac.uk/research/grants/grants/AwardDetails.aspx?FundingReference=BB/L005050/1
-:link-type: doc
-![BBSRC logo](images/funding/bbsrc.svg)  
+:::{grid-item}
+[![BBSRC logo](images/funding/bbsrc.svg)](http://www.bbsrc.ac.uk/research/grants/grants/AwardDetails.aspx?FundingReference=BB/L005050/1)  
 :::
 
-:::{grid-item-card}
-:link: http://www.manchester.ac.uk/
-:link-type: doc
-![The University of Manchester logo](images/funding/uom.svg) 
+:::{grid-item}
+[![The University of Manchester logo](images/funding/uom.svg)](http://www.manchester.ac.uk/)
 :::
 
-:::{grid-item-card}
-:link: http://www.oerc.ox.ac.uk/
-:link-type: doc
-![Oxford eResearcg Centre logo](images/funding/oerc.svg) 
+:::{grid-item}
+[![Oxford eResearcg Centre logo](images/funding/oerc.svg)](http://www.oerc.ox.ac.uk/) 
 :::
 
 ::::
