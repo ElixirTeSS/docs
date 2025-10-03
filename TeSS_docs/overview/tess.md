@@ -17,4 +17,8 @@ This requires access both to face-to-face training opportunities and to disparat
 
 
 
+```{seealso} 
+- [mTeSS-X project website](https://elixirtess.github.io/mTeSS-X/) which includes [global instances of TeSS](https://elixirtess.github.io/mTeSS-X/global)
+- [Original documentation at ELIXIR TeSS](https://tess.elixir-europe.org/about)
+```
 

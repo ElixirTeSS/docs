@@ -1,6 +1,6 @@
 # Definitions
 
-Definitions of terms and user roles.
+Definitions of terms and user roles used across TeSS.
 
 ## Terms 
 
