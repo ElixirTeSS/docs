@@ -76,23 +76,27 @@ TeSS has been funded by:
 :gutter: 3
 
 :::{grid-item}
-:class: text-center
+:class: justify-content-center
 [![ELIXIR Estonia logo](images/funding/elixir-ee.svg)](https://elixir.ut.ee/)
 :::
 
 :::{grid-item}
+:class: justify-content-center
 [![ELIXIR United Kingdom logo](images/funding/elixir-uk.svg)](http://elixir-uk.org/)
 :::
 
 :::{grid-item}
+:class: justify-content-center
 [![BBSRC logo](images/funding/bbsrc.svg)](http://www.bbsrc.ac.uk/research/grants/grants/AwardDetails.aspx?FundingReference=BB/L005050/1)  
 :::
 
 :::{grid-item}
+:class: justify-content-center
 [![The University of Manchester logo](images/funding/uom.svg)](http://www.manchester.ac.uk/)
 :::
 
 :::{grid-item}
+:class: justify-content-center
 [![Oxford eResearcg Centre logo](images/funding/oerc.svg)](http://www.oerc.ox.ac.uk/) 
 :::
 
