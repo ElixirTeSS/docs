@@ -20,6 +20,7 @@ parts:
     - file: spaces/credit
   - caption: Content registration
     chapters:
+    - file: content/intro-content
     - file: content/auto
       sections:
       - file: content/auto-events

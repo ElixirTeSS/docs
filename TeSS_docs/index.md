@@ -39,7 +39,7 @@ When to set up a TeSS space, how to credit other spaces' materials.
 :::
 
 :::{grid-item-card}
-:link: content/auto
+:link: content/intro-content
 :link-type: doc
 
 {fas}`box-open;sd-text-secondary` **Content**
