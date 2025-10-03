@@ -2,6 +2,7 @@
 
 This documentation is intended to provide help and information on how to use a training registry created on the TeSS platform.
 
+## Getting started
 
 ::::{grid} 1 1 2 3
 :class-container: text-center
@@ -60,3 +61,48 @@ Configure an API or widget.
 
 ::::
 
+## Funding
+
+TeSS has been funded by:
+
+- European Commission, Horizon 2020 Research Infrastructures programme (ELIXIR-EXCELERATE, [grant agreement number 676559](https://cordis.europa.eu/project/rcn/198519_en.html));
+- ELIXIR Implementation Study (Registry Integration from a User Perspective);
+- ELIXIR Implementation Study (Learning Paths).
+- BBSRC UK (Delivering ELIXIR-UK grant, grant agreement numbers [BB/L005050/1](https://bbsrc.ukri.org/research/grants/grants/AwardDetails.aspx?FundingReference=BB/L005050/1) & [BB/L005069/1](https://bbsrc.ukri.org/research/grants-search/AwardDetails/?FundingReference=BB/L005069/1)).
+
+
+::::{grid} 2 3 5 6
+:class-container: text-center sd-border-0 
+:gutter: 3
+
+:::{grid-item-card}
+:link: https://elixir.ut.ee/
+:link-type: doc
+![ELIXIR Estonia logo](images/funding/elixir-ee.svg)
+:::
+
+:::{grid-item-card}
+:link: http://elixir-uk.org/
+:link-type: doc
+![ELIXIR United Kingdom logo](images/funding/elixir-uk.svg) 
+:::
+
+:::{grid-item-card}
+:link: http://www.bbsrc.ac.uk/research/grants/grants/AwardDetails.aspx?FundingReference=BB/L005050/1
+:link-type: doc
+![BBSRC logo](images/funding/bbsrc.svg)  
+:::
+
+:::{grid-item-card}
+:link: http://www.manchester.ac.uk/
+:link-type: doc
+![The University of Manchester logo](images/funding/uom.svg) 
+:::
+
+:::{grid-item-card}
+:link: http://www.oerc.ox.ac.uk/
+:link-type: doc
+![Oxford eResearcg Centre logo](images/funding/oerc.svg) 
+:::
+
+::::
