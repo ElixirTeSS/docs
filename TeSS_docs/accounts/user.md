@@ -4,7 +4,7 @@
 
 TeSS is viewable by everyone, you do not need to register to search or browse for materials. If you want to register your materials, you can register with your email address and create a username of your choice. 
 
-Steps to register for TeSS using your email address:
+To register for TeSS using your email address:
 
 1. Go to a TeSS instance, such as [ELIXIR TeSS](https://tess.elixir-europe.org/).
 2. In the top menu, click 'Log In', then click 'Register'.
@@ -18,7 +18,7 @@ Steps to register for TeSS using your email address:
 Some instances of TeSS support additional authentication methods. ELIXIR TeSS support [LS Login](https://lifescience-ri.eu/ls-login/users/how-to-get-and-use-life-science-id.html), an authentication service of the European Life Science Research Infrastructures. You can use your institutional login to access multiple services.
 
 
-Steps to register for TeSS using your email address:
+To register for ELIXIR TeSS using your LS Login:
 
 1. Go to [ELIXIR TeSS](https://tess.elixir-europe.org/).
 2. In the top menu, click 'Log In', then click 'Register'.
