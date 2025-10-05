@@ -15,10 +15,9 @@ Content providers can be browsed and searched in TeSS.
 
 To browse content providers:
 
-1. Go to a TeSS instance, such as [ELIXIR TeSS](https://tess.elixir-europe.org/).
-2. In the top menu, click ‘Directory’, then click ‘Providers’.
-3. The list of all visible content providers is show, with a search box at the top. For each provider, you can see how many events and materials are registered. 
-4. There are filters on the left to limit the search by keyword, type, and (if enabled) node. There is an option to 'Show hidden items' in the search results.
+1. In the top menu, click ‘Directory’, then click ‘Providers’.
+2. The list of all visible content providers is shown, with a search box at the top. For each provider, you can see how many events and materials are registered. 
+3. There are filters on the left to limit the search by keyword, type, and (if enabled) node. There is an option to 'Show hidden items' in the search results.
 
 ## Registering content providers
 

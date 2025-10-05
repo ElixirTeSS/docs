@@ -63,6 +63,12 @@ The technical administrator, responsible for installation, configuration and mai
 
 A person with limited administrator permissions.
 
+
+### Editor (of a content provider)
+
+A person with editing rights to a content provider.
+
+
 ### Space Manager
 
 The person responsible for managing a space within an instance.

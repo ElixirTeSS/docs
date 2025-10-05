@@ -1,8 +1,10 @@
 # User account creation
 
+TeSS is viewable by everyone, you do not need to register to search or browse for materials.
+
 ## Register by email address
 
-TeSS is viewable by everyone, you do not need to register to search or browse for materials. If you want to register your materials, you can register with your email address and create a username of your choice. 
+If you want to register your materials, you can register with your email address and create a username of your choice. 
 
 To register for TeSS using your email address:
 
@@ -25,4 +27,4 @@ To register for ELIXIR TeSS using your LS Login:
 3. Click the 'LS Login' button.
 4. Sign into LS Login using your institutional login.
 5. When you are returned to TeSS, enter the username you wish to create.
-6. Complete the instructions on TeSS.
+6. Complete the instructions on screen.
