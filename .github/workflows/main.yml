@@ -33,7 +33,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          path: "_build/dirhtml"
+          path: "TeSS_docs/_build/dirhtml"
 
       - name: Deploy to GitHub Pages
         id: deployment
