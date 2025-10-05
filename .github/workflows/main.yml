@@ -55,4 +55,4 @@ jobs:
 
       - name: Deploy to GitHub Pages
         run: |
-          #    ghp-import -n -p -f TeSS_docs/_build/dirhtml
+              ghp-import -n -p -f TeSS_docs/_build/dirhtml
