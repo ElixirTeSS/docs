@@ -1,23 +1,23 @@
 # When to choose your own TeSS instance or register a space in TeSSHub
 
-TeSS is an open source, reusable software platform, and has been [deployed by several other communities across the globe](../overview/tess#global-instances-of-tess). However, with the launch of the [Spaces feature](intro-spaces), it is possible for a community to create their own tailored catalogue or "view" within an existing TeSS instance. The TeSSHub is a public instance that supports the Spaces feature (launching soon).
+TeSS is an open source, reusable software platform, and has been [deployed by several other communities across the globe](../overview/tess). However, with the launch of the [Spaces feature](intro-spaces), it is possible for a community to create their own tailored catalogue or "view" within an existing TeSS instance. The TeSSHub is a public instance that supports the Spaces feature (launching soon).
 
 
 ## Why register a space with TeSSHub?
 
-- ✅ Appears as its own distinct catalogue
-- ✅ Can exchange materials with other TeSS instances and spaces
-- ✅ Support from the global TeSS community
-- ✅ Free to run and use
-- ✅ No installation or server required
-- ❎ Limited technical customisation options  
+- {fas}`clipboard-check;sd-text-success` Appears as its own distinct catalogue
+- {fas}`clipboard-check;sd-text-success` Can exchange materials with other TeSS instances and spaces
+- {fas}`clipboard-check;sd-text-success` Support from the global TeSS community
+- {fas}`clipboard-check;sd-text-success` Free to run and use
+- {fas}`clipboard-check;sd-text-success` No installation or server required
+- {fas}`clipboard-question;sd-text-warning`  Limited technical customisation options  
 
 
 ## Why create your own TeSS instance?
 
-- ✅ Appears as its own distinct catalogue
-- ✅ Can exchange materials with other TeSS instances and spaces
-- ✅ Support from the global TeSS community
-- ✅ Free, open source software
-- ✅ Can be fully customised by your own development team
-- ❎ Requires installation and server administration (at your expense)
+- {fas}`clipboard-check;sd-text-success` Appears as its own distinct catalogue
+- {fas}`clipboard-check;sd-text-success` Can exchange materials with other TeSS instances and spaces
+- {fas}`clipboard-check;sd-text-success` Support from the global TeSS community
+- {fas}`clipboard-check;sd-text-success` Free, open source software
+- {fas}`clipboard-check;sd-text-success` Can be fully customised by your own development team
+- {fas}`clipboard-question;sd-text-warning` Requires installation and server administration (at your expense)
