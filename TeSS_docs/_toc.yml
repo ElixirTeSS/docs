@@ -9,6 +9,7 @@ parts:
     - file: overview/tess
     - file: overview/definitions
     - file: overview/what-we-catalogue
+    - file: overview/subscribe
   - caption: Account creation
     chapters:
     - file: accounts/user
