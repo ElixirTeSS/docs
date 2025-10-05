@@ -6,6 +6,17 @@ Definitions of terms and user roles used across TeSS.
 
 Definition of common terms used across TeSS.
 
+### Content provider
+
+Entities (such as academic institutions, non-profit organisations, portals) that provide training materials of relevance.
+
+### Event
+
+An event in TeSS is a link to a single training event sourced by a provider along with description and other meta information (e.g. date, location, audience, ontological categorization, keywords).
+
+Training events can be added manually or automatically harvested from a provider's website.
+
+
 ### Exchange (TeSS-X)
 
 If a community runs its own instance then a TeSS-X plugin sets up an exchange with other instances.
@@ -18,6 +29,11 @@ See [What do we mean by eXchange?](https://elixirtess.github.io/mTeSS-X/exchange
 One installation of the TeSS Platform, on a server, managed by a technical administrator. An instance may have multiple spaces, if this option has been enabled by the administrator.
 
 Examples of TeSS instances can be viewed on the [global usage page](https://elixirtess.github.io/mTeSS-X/global) of the mTeSS-X project website.
+
+
+### Learning path
+
+A a pathway that guides learners through a set of modules (courses/materials) to be undertaken progressively (from lower- to higher-order thinking skills) to acquire the desired knowledge and skills on a subject by the end of the pathway.
 
 
 ### mTeSS-X Project
@@ -50,6 +66,13 @@ The main codebase which is used for development, written in Ruby on Rails. The c
 Shorthand for the [ELIXIR TeSS](https://tess.elixir-europe.org/) portal, the training registry for Europe's distributed infrastructure for life-science data, built using the TeSS Platform. 
 
 
+### Training material
+
+In the context of TeSS, a training material is a link to a single online training material sourced by a content provider (such as a text on a Web page, presentation, video) along with description and other meta information (e.g. ontological categorization, keywords).
+
+Materials can be added manually or automatically harvested from a provider's website.
+
+
 
 ## Roles
 
@@ -59,15 +82,29 @@ Definitions of user roles in TeSS.
 
 The technical administrator, responsible for installation, configuration and maintenance of a TeSS instance.
 
+### Author
+
+Individuals and organisations involved in the preparation, creation or presentation of the published work.
+
+### Collaborator
+
+An individual who has been granted editing rights to a material, topic or learning path by the individual (owner) who created it.
+
+### Contributor 
+
+Individuals and organisations that contributed to the published work but are not authors.
+
 ### Curator
 
-A person with limited administrator permissions.
-
+An individual who has been granted permission to create a learning path in TeSS while following their community’s editorial process, or edit the materials associated with a content provider or node.
 
 ### Editor (of a content provider)
 
 A person with editing rights to a content provider.
 
+### Owner
+
+An individual who has created a material, topic or learning path in TeSS.
 
 ### Space Manager
 
