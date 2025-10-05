@@ -18,7 +18,6 @@ parts:
     chapters:
     - file: spaces/intro-spaces
     - file: spaces/instance-or-space
-    - file: spaces/credit
   - caption: Content registration
     chapters:
     - file: content/intro-content
@@ -33,5 +32,6 @@ parts:
   - caption: Developers
     chapters:
     - file: developers/code-data
+    - file: developers/credit
     - url: https://github.com/ElixirTeSS/TeSS/tree/master/docs
       title: Developer guides (on GitHub)
