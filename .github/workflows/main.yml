@@ -24,8 +24,8 @@ jobs:
           pip install jupyter-book ghp-import
 
       - name: Build the Jupyter Book
-        run: jupyter-book build TeSS_docs
+        run: jupyter-book build --builder dirhtml TeSS_docs
 
       - name: Deploy to GitHub Pages
         run: |
-          ghp-import -n -p -f TeSS_docs/_build/html
+          ghp-import -n -p -f TeSS_docs/_build/dirhtml
