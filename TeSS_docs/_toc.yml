@@ -24,10 +24,8 @@ parts:
     - file: content/intro-content
     - file: content/auto
       sections:
-      - file: content/auto-events
-      - file: content/auto-materials
-      - file: content/auto-workflows
-      - file: content/auto-schemas
+      - file: content/structured-data-types
+      - file: content/sources
     - file: content/manual
       sections:
       - file: content/manual-events-materials
