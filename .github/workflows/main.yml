@@ -8,24 +8,35 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
+          cache: pip
 
       - name: Install dependencies
         run: |
           pip install -U pip
-          pip install jupyter-book ghp-import
+          pip install -r requirements.txt
 
       - name: Build the Jupyter Book
-        run: jupyter-book build --builder dirhtml TeSS_docs
+        run: jupyter-book build --builder dirhtml TeSS_docs/
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          path: "_build/dirhtml"
 
       - name: Deploy to GitHub Pages
-        run: |
-          ghp-import -n -p -f TeSS_docs/_build/dirhtml
+        id: deployment
+        uses: actions/deploy-pages@v4
+        #run: |
+        #  ghp-import -n -p -f TeSS_docs/_build/dirhtml
