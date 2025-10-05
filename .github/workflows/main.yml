@@ -47,8 +47,12 @@ jobs:
       #  run: |
       #    ghp-import -n -p -f TeSS_docs/_build/dirhtml
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: TeSS_docs/_build/dirhtml
+      #- name: Deploy
+      #  uses: peaceiris/actions-gh-pages@v4
+      #  with:
+      #    github_token: ${{ secrets.GITHUB_TOKEN }}
+      #    publish_dir: TeSS_docs/_build/dirhtml
+
+      - name: Deploy to GitHub Pages
+        run: |
+          #    ghp-import -n -p -f TeSS_docs/_build/dirhtml
