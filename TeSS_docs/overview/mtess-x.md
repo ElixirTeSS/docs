@@ -57,12 +57,17 @@ View the mTeSS-X project website
 
 :::{grid-item}
 :class: justify-content-center
-[![HZDR logo](../images/funding/ul.png)](https://www.ul.ie/)
+[![University of Limerick logo](../images/funding/ul.png)](https://www.ul.ie/)
 :::
 
 :::{grid-item}
 :class: justify-content-center
-[![HZDR logo](../images/funding/tartu.png)](https://ut.ee/en)
+[![University of Tartu logo](../images/funding/tartu.png)](https://ut.ee/en)
+:::
+
+:::{grid-item}
+:class: justify-content-center
+[![CERN logo](../images/funding/cern.svg)](https://home.cern/)
 :::
 ::::
 
