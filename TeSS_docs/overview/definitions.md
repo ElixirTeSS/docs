@@ -10,6 +10,12 @@ Definition of common terms used across TeSS.
 
 Entities (such as academic institutions, non-profit organisations, portals) that provide training materials of relevance.
 
+
+### ELIXIR TeSS Portal
+
+The [ELIXIR TeSS](https://tess.elixir-europe.org/) portal, the training registry for Europe's distributed infrastructure for life-science data, is built using the TeSS Platform.
+
+
 ### Event
 
 An event in TeSS is a link to a single training event sourced by a provider along with description and other meta information (e.g. date, location, audience, ontological categorization, keywords).
@@ -28,7 +34,7 @@ See [What do we mean by eXchange?](https://elixirtess.github.io/mTeSS-X/exchange
 
 One installation of the TeSS Platform, on a server, managed by a technical administrator. An instance may have multiple spaces, if this option has been enabled by the administrator.
 
-Examples of TeSS instances can be viewed on the [global usage page](https://elixirtess.github.io/mTeSS-X/global) of the mTeSS-X project website.
+Examples of TeSS instances can be viewed on the [global usages page](global).
 
 
 ### Learning path
@@ -38,7 +44,7 @@ A a pathway that guides learners through a set of modules (courses/materials) to
 
 ### mTeSS-X Project
 
-The [mTeSS-X Project](https://elixirtess.github.io/mTeSS-X) (Multi-space Training e-Support System with eXchange) overcomes the fragmentation of training resources across Research Infrastructures and the European Science Clusters.
+The [mTeSS-X Project](mtess-x) (Multi-space Training e-Support System with eXchange) overcomes the fragmentation of training resources across Research Infrastructures and the European Science Clusters.
 The project aims to enhance existing TeSS-based training registries or catalogues like [ELIXIR TeSS (life sciences)](https://tess.elixir-europe.org/) and [PaN-Training (photon and neutron)](https://www.panosc.eu/training-catalogue/) by building an aggregator for these and similar platforms.
 
 
@@ -59,11 +65,6 @@ Communities will be welcome to request their own space on the TeSSHub, providing
 ### TeSS Platform
 
 The main codebase which is used for development, written in Ruby on Rails. The code is open source and [available on GitHub](https://github.com/ElixirTeSS/TeSS) under a BSD 3-Clause licence. 
-
-
-### TeSS Portal
-
-Shorthand for the [ELIXIR TeSS](https://tess.elixir-europe.org/) portal, the training registry for Europe's distributed infrastructure for life-science data, built using the TeSS Platform. 
 
 
 ### Training material

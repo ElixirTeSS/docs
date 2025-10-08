@@ -2,7 +2,8 @@
 
 This documentation is intended to provide help and information on how to use a training registry created on the TeSS platform.
 
-## Getting started
+## About TeSS
+
 
 ::::{grid} 1 1 2 3
 :class-container: text-center
@@ -12,11 +13,40 @@ This documentation is intended to provide help and information on how to use a t
 :link: overview/tess
 :link-type: doc
 
-{fas}`panorama;sd-text-secondary` **Overview**
+{fas}`panorama;sd-text-secondary` **Introduction**
 ^^^
 
-What is TeSS, definitions of terms.
+What is TeSS, definitions of terms and roles.
 :::
+
+:::{grid-item-card}
+:link: overview/global
+:link-type: doc
+
+{fas}`earth-europe;sd-text-secondary` **Global usage**
+^^^
+
+Global usages of the TeSS Platform.
+:::
+
+:::{grid-item-card}
+:link: overview/mtess-x
+:link-type: doc
+
+{fas}`arrows-turn-to-dots;sd-text-secondary` **mTeSS-X**
+^^^
+
+Multi-spaces and exchange.
+:::
+
+::::
+
+
+## Getting started
+
+::::{grid} 1 1 2 3
+:class-container: text-center
+:gutter: 3
 
 :::{grid-item-card}
 :link: accounts/user
@@ -29,30 +59,32 @@ Creating a user account, setting up a content provider.
 :::
 
 :::{grid-item-card}
-:link: spaces/intro-spaces
-:link-type: doc
-
-{fas}`boxes-stacked;sd-text-secondary` **Spaces**
-^^^
-
-When to set up a TeSS space, how to credit other spaces' materials.
-:::
-
-:::{grid-item-card}
 :link: content/intro-content
 :link-type: doc
 
-{fas}`box-open;sd-text-secondary` **Content**
+{fas}`box-open;sd-text-secondary` **Content registration**
 ^^^
 
 Automatically or manually register events, materials or learning paths.
 :::
 
+
+:::{grid-item-card}
+:link: spaces/intro-spaces
+:link-type: doc
+
+{fas}`boxes-stacked;sd-text-secondary` **Space creation**
+^^^
+
+When to set up a TeSS space, how to credit other spaces' materials.
+:::
+
+
 :::{grid-item-card}
 :link: developers/code-data
 :link-type: doc
 
-{fas}`wrench;sd-text-secondary` **Developers**
+{fas}`wrench;sd-text-secondary` **Widgets and API**
 ^^^
 
 Configure an API or widget.
@@ -65,6 +97,8 @@ Configure an API or widget.
 
 TeSS has been funded by:
 
+- The authors acknowledge the [OSCARS project](https://www.oscars-project.eu/projects/mtess-x-scaling-training-portal-federation-ris-through-multi-tenanting-and-exchange), which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement No. 101129751
+- [BioFAIR](https://biofair.uk/)
 - European Commission, Horizon 2020 Research Infrastructures programme (ELIXIR-EXCELERATE, [grant agreement number 676559](https://cordis.europa.eu/project/rcn/198519_en.html));
 - ELIXIR Implementation Study (Registry Integration from a User Perspective);
 - ELIXIR Implementation Study (Learning Paths).

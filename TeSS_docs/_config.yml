@@ -6,7 +6,7 @@
 #######################################################################################
 # Book settings
 title                       : TeSS Platform Documentation  # The title of the book. Will be placed in the left navbar.
-author                      : Phil Reed, Munazah Andrabi, Finn Bacall, Carole Goble  # The author of the book
+author                      : Phil Reed, Munazah Andrabi, Finn Bacall, Carole Goble (OSCARS mTeSS-X project)
 copyright                   : "2025"  # Copyright year to be placed in the footer
 logo                        : images/tess-platform-logo-wide.svg  # A path to the book logo
 

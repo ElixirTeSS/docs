@@ -7,6 +7,8 @@ parts:
   - caption: Overview
     chapters:
     - file: overview/tess
+    - file: overview/global
+    - file: overview/mtess-x
     - file: overview/definitions
     - file: overview/what-we-catalogue
     - file: overview/subscribe
