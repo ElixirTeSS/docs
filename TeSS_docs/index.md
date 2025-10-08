@@ -16,7 +16,7 @@ This documentation is intended to provide help and information on how to use a t
 {fas}`panorama;sd-text-secondary` **Introduction**
 ^^^
 
-What is TeSS, definitions of terms and roles.
+What is TeSS,Training e-Support Service
 :::
 
 :::{grid-item-card}
@@ -26,7 +26,7 @@ What is TeSS, definitions of terms and roles.
 {fas}`earth-europe;sd-text-secondary` **Global usage**
 ^^^
 
-Global usages of the TeSS Platform.
+Global usages of the TeSS Platform
 :::
 
 :::{grid-item-card}
@@ -36,7 +36,7 @@ Global usages of the TeSS Platform.
 {fas}`arrows-turn-to-dots;sd-text-secondary` **mTeSS-X**
 ^^^
 
-Multi-spaces and exchange.
+Multi-spaces and exchange
 :::
 
 ::::
@@ -55,7 +55,7 @@ Multi-spaces and exchange.
 {fas}`user-plus;sd-text-secondary` **Account creation**
 ^^^
 
-Creating a user account, setting up a content provider.
+Creating a user account, setting up a content provider
 :::
 
 :::{grid-item-card}
@@ -65,7 +65,7 @@ Creating a user account, setting up a content provider.
 {fas}`box-open;sd-text-secondary` **Content registration**
 ^^^
 
-Automatically or manually register events, materials or learning paths.
+Automatically or manually register events, materials or learning paths
 :::
 
 
@@ -76,7 +76,7 @@ Automatically or manually register events, materials or learning paths.
 {fas}`boxes-stacked;sd-text-secondary` **Space creation**
 ^^^
 
-When to set up a TeSS space, how to credit other spaces' materials.
+When to set up a TeSS space, how to credit other spaces' materials
 :::
 
 
@@ -87,7 +87,7 @@ When to set up a TeSS space, how to credit other spaces' materials.
 {fas}`wrench;sd-text-secondary` **Widgets and API**
 ^^^
 
-Configure an API or widget.
+Configure an API or widget to access materials
 :::
 
 
@@ -95,10 +95,21 @@ Configure an API or widget.
 
 ## Funding
 
+The authors acknowledge the [OSCARS project](https://www.oscars-project.eu/projects/mtess-x-scaling-training-portal-federation-ris-through-multi-tenanting-and-exchange), which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement No. 101129751
+
+::::{grid} 1 1 2 2
+:class-container: text-center sd-border-0 sd-align-major-justify
+:gutter: 3
+
+:::{grid-item}
+:columns: 9
+[![OSCARS logo and EU flag](images/OSCARS-logo-EUflag.svg)](https://oscars-project.eu/)
+:::
+::::
+
 TeSS has been funded by:
 
-- The authors acknowledge the [OSCARS project](https://www.oscars-project.eu/projects/mtess-x-scaling-training-portal-federation-ris-through-multi-tenanting-and-exchange), which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement No. 101129751
-- [BioFAIR](https://biofair.uk/)
+- [BioFAIR](https://biofair.uk/) Short Term Funding Award GP312
 - European Commission, Horizon 2020 Research Infrastructures programme (ELIXIR-EXCELERATE, [grant agreement number 676559](https://cordis.europa.eu/project/rcn/198519_en.html));
 - ELIXIR Implementation Study (Registry Integration from a User Perspective);
 - ELIXIR Implementation Study (Learning Paths).
@@ -108,6 +119,11 @@ TeSS has been funded by:
 ::::{grid} 2 3 5 6
 :class-container: text-center sd-border-0 sd-align-major-justify
 :gutter: 3
+
+:::{grid-item}
+:class: justify-content-center
+![BioFAIR logo](images/funding/biofair.png)
+:::
 
 :::{grid-item}
 :class: justify-content-center
@@ -136,7 +152,7 @@ TeSS has been funded by:
 
 :::{grid-item}
 :class: justify-content-center
-[![Oxford eResearcg Centre logo](images/funding/oerc.svg)](http://www.oerc.ox.ac.uk/) 
+[![HZDR logo](images/funding/hzdr.png)](https://www.hzdr.de/db/Cms?pOid=44909&pNid=0&pLang=en)
 :::
 
 ::::
