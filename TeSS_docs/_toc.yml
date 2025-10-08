@@ -11,11 +11,11 @@ parts:
     - file: overview/mtess-x
     - file: overview/definitions
     - file: overview/what-we-catalogue
-    - file: overview/subscribe
   - caption: Account creation
     chapters:
     - file: accounts/user
     - file: accounts/provider
+    - file: accounts/subscribe
   - caption: Space creation
     chapters:
     - file: spaces/intro-spaces
