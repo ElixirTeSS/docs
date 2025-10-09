@@ -18,7 +18,12 @@ to build an aggregator for training portals like ELIXIR TeSS and
 
 :::{grid-item}
 :columns: 4
-![Research Infrastructures of Life Sciences and Photon Neutron](../images/overview/ri-350x160.svg)
+```{image} /images/overview/ri-350x160-secondary-white.svg
+:class: only-dark
+```
+```{image} /images/overview/ri-350x160-secondary.svg
+:class: only-light
+```
 :::
 ::::
 
@@ -31,17 +36,42 @@ innovation for building a federation of portals to:
 
 The project strives to support the federation of training catalogues using a multi-tenancy approach, and enabling cross-instance content exchange. This will allow RIs and their communities to maintain tailored catalogues with distinct identities, while simultaneously benefiting from a shared global pool of resources.
 
+
+::::{grid} 1 2 2 3
+:gutter: 3
+
+:::{grid-item-card}
+**Challenge**
+^^^
+Fragmentation of resources hampers the reuse of valuable training materials and limits the dissemination of events and learning pathways.
+The main challenges of the project are i) to enable the federation of catalogues, ii) support cross-discipline training resource exchange, and iii) celebrate and maintain catalogue unique identity.
+:::
+
+:::{grid-item-card}
+**Solution**
+^^^
+mTeSS-X will extend the TeSS platform by introducing multi-tenancy, allowing multiple communities to maintain distinct training catalogues within a shared instance, while preserving their individual identities.
+It will also implement TeSS-X plugins to facilitate seamless content exchange between catalogues implemented as separate instances.
+:::
+
+:::{grid-item-card}
+**Scientific impact**
+^^^
+By fostering the federation of interoperable training catalogues, mTeSS-X will significantly enhance the findability, accessibility, and reuse of high-quality training resources ([FAIR principles](https://www.go-fair.org/fair-principles/)).
+:::
+::::
+
+
 ```{button-link} https://elixirtess.github.io/mTeSS-X/
 :color: primary
 View the mTeSS-X project website
 ```
 
 
-
 ### Partners
 
 
-::::{grid} 2 3 5 6 
+::::{grid} 2 3 5 5 
 :class-container: text-center sd-border-0 sd-align-major-justify
 :gutter: 3
 
