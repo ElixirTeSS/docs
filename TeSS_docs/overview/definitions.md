@@ -52,7 +52,7 @@ The project aims to enhance existing TeSS-based training registries or catalogue
 
 A single TeSS instance presents multiple tailored spaces (catalogues) whose selections of training material are “views” on a global catalogue. 
 Each community registers, maintains and curates their material for their members in their own virtual space in the common portal environment.
-See [What do we mean by Multi-space/tenancy?](https://elixirtess.github.io/mTeSS-X/multi-space) on the mTeSS-X project website for details.
+See [Introduction to spaces](../spaces/intro-spaces) for details.
 
 
 ### TeSSHub
