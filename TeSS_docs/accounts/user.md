@@ -16,7 +16,11 @@ To register for TeSS using your email address:
 
 ## Alternative registration methods
 
-Some instances of TeSS support additional authentication methods. ELIXIR TeSS support [LS Login](https://lifescience-ri.eu/ls-login/users/how-to-get-and-use-life-science-id.html), an authentication service of the European Life Science Research Infrastructures. You can use your institutional login to access multiple services.
+```{margin}
+![LS Login logo](../images/accounts/ls-login.png)
+```
+
+Some instances of TeSS support additional or alternative authentication methods. ELIXIR TeSS supports [LS Login](https://lifescience-ri.eu/ls-login/users/how-to-get-and-use-life-science-id.html), an authentication service of the European Life Science Research Infrastructures. You can use your institutional login to access multiple services.
 
 
 To register for [ELIXIR TeSS](https://tess.elixir-europe.org/) using your LS Login:
