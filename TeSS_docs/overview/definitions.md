@@ -42,7 +42,7 @@ Examples of TeSS instances can be viewed on the [global usages page](global).
 A a pathway that guides learners through a set of modules (courses/materials) to be undertaken progressively (from lower- to higher-order thinking skills) to acquire the desired knowledge and skills on a subject by the end of the pathway.
 
 
-### mTeSS-X Project
+### mTeSS-X 
 
 The [mTeSS-X Project](mtess-x) (Multi-space Training e-Support System with eXchange) overcomes the fragmentation of training resources across Research Infrastructures and the European Science Clusters.
 The project aims to enhance existing TeSS-based training registries or catalogues like [ELIXIR TeSS (life sciences)](https://tess.elixir-europe.org/) and [PaN-Training (photon and neutron)](https://www.panosc.eu/training-catalogue/) by building an aggregator for these and similar platforms.
