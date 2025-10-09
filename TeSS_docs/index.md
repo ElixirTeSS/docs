@@ -16,7 +16,7 @@ This documentation is intended to provide help and information on how to use a t
 {fas}`panorama;sd-text-secondary` **Introduction**
 ^^^
 
-What is TeSS,Training e-Support Service
+What is TeSS: Training e-Support Service
 :::
 
 :::{grid-item-card}
