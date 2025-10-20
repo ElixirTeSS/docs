@@ -8,7 +8,7 @@
 title                       : TeSS Platform Documentation  # The title of the book. Will be placed in the left navbar.
 author                      : Phil Reed, Munazah Andrabi, Finn Bacall, Carole Goble (OSCARS mTeSS-X project)
 copyright                   : "2025"  # Copyright year to be placed in the footer
-logo                        : images/tess-platform-logo-wide.svg  # A path to the book logo
+logo                        : images/logo.svg  # A path to the book logo
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
