@@ -5,4 +5,9 @@ Each community registers, maintains and curates their material for their members
 
 This new feature is possible thanks to the [mTeSS-X project](../overview/mtess-x). Catalogues are pooled into a shared instance but look to their community as if they have their own catalogue with their own identity.
 
-![Graphic of multi-spaces](../images/spaces/graphic-multi-space.svg)
+```{image} ../images/spaces/graphic-multi-space.svg
+:alt: Graphic of multi-spaces
+:class: mb-1
+:width: 300px
+:align: center
+```
