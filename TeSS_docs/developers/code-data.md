@@ -12,7 +12,8 @@ TeSS is committed to the FAIR principles: making data findable, accessible, inte
 {octicon}`mark-github` **Software**
 ^^^
 
-The source code for TeSS [is available on GitHub](https://github.com/ElixirTeSS/TeSS), under the [BSD 3-Clause](https://tess.elixir-europe.org/about/developers#api:~:text=available%20under%20the-,BSD%203%2DClause,-license.) license.
+The source code for TeSS [is available on GitHub](https://github.com/ElixirTeSS/TeSS), under the [BSD 3-Clause](https://tess.elixir-europe.org/about/developers#api:~:text=available%20under%20the-,BSD%203%2DClause,-license.) license. 
+We welcome [contributions](https://github.com/ElixirTeSS/TeSS/blob/master/CONTRIBUTING.md).
 :::
 
 
