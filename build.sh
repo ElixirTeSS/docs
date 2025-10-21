@@ -8,14 +8,14 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 cd $DIR
 
 # Define the output directory (where the compiled book is saved)
-BUILD_DIR="$HOME/mTeSS-X_docs/_build/html"
+BUILD_DIR="$HOME/TeSS_docs/_build/html"
 
 # Building the book
 echo "Building Jupyter Book..."
 jupyter-book build --path-output ~/TeSS_docs $DIR/TeSS_docs || { echo "Jupyter Book build failed"; exit 1; }
 
 # Define the output directory (where the compiled book is saved)
-BUILD_DIR=$HOME"/mTeSS-X_docs/_build/html"
+BUILD_DIR=$HOME"/TeSS_docs/_build/html"
 echo "Build directory: $BUILD_DIR"
 
 # Check if the Jupyter Book build directory exists
