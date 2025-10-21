@@ -18,11 +18,22 @@ For other methods, please [contact us](https://tess.elixir-europe.org/about/us#c
 
 ## Google Sheet
 
-On the user side:
+Our preferred options are for you to provide [structured data markup](structured-data-types) directly in the webpages that describe your training materials, or provide a single page with the markup for all the materials. This may not be possible, for example, if you have technical restrictions with your content management system.
+
+We offer an alternative option for a user to provide a collection of training materials in a spreadsheet format, following our template. (This method currently does not support ingesting events.)  
+
+To prepare and register a spreadsheet of materials to ingest:
 
 1. Create a new Google Sheet.
-2. Open this link : https://docs.google.com/spreadsheets/d/1yx2AZTPaPEU_Au2Hyb_C3TuNvH4btR9pZwCmfmTQRdc/.
-3. Select everything from the `Example` sheet (Ctrl/Cmd + A), copy and paste it in your empty new sheet.
-4. Amend the cells to properly define your training material. ⚠️ **Be careful**, some restrictions apply to specific columns, e.g., the cells under the `Keywords` column must be a coma separated list. See the list of restrictions in the [`DataDictionary` sheet](https://docs.google.com/spreadsheets/d/1yx2AZTPaPEU_Au2Hyb_C3TuNvH4btR9pZwCmfmTQRdc/edit?gid=2096797962#gid=2096797962).
+2. Open the template Google Sheet: https://docs.google.com/spreadsheets/d/1yx2AZTPaPEU_Au2Hyb_C3TuNvH4btR9pZwCmfmTQRdc/.
+3. Select everything from the `Example` sheet {kbd}`CTRL/CMD+A`, copy and paste it in your empty new sheet.
+4. Enter the details of your training materials under the headings provided. 
+  ````{margin}
+  ```{warning}
+  Some restrictions apply to specific columns, for example, the cells under the `Keywords` column must be a comma-separated list. See the list of restrictions in the [`DataDictionary` sheet](https://docs.google.com/spreadsheets/d/1yx2AZTPaPEU_Au2Hyb_C3TuNvH4btR9pZwCmfmTQRdc/edit?gid=2096797962#gid=2096797962).
+  ```
+  ````
 5. One row corresponds to one training material, you can add as many rows/materials as you want.
-6. Once your Google Sheet ready, give the URL to your TeSS administrator and ask them to use it for the Materials' Ingestion Method: CSV File and Google Spreadsheet.
+6. Once your Google Sheet is ready, give the URL to your TeSS administrator and ask them to use it for the Materials Ingestion Method: CSV File and Google Spreadsheet.
+
+TeSS will scan your spreadsheet once per day to ingest any new and changed training materials.
