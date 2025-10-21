@@ -22,6 +22,7 @@ To run locally, install Jupyter Book in a virtual environment then build:
 python -m venv venv
 source venv/bin/activate
 pip install --upgrade pip
+pip install -r requirements.txt
 pip install -U jupyter-book
 jupyter-book build TeSS_docs/
 ```
