@@ -26,3 +26,17 @@ html[data-theme="dark"] article .sd-btn-primary.external:not(:has(img))::after {
 article .sd-card :not(p) .external:not(:has(img))::after {
     content: none;
 }*/
+
+
+/*-----Locally hosted font----- assuming the repo is called docs, GHP served within ELIXIRTeSS */
+@font-face {
+    font-family: "PlusJakartaSans-VariableFont_wght";
+    src: url('./fonts/PlusJakartaSans-VariableFont_wght.woff') format('woff');
+}
+
+@font-face {
+    font-family: "PlusJakartaSans-Italic-VariableFont_wght";
+    src: url('./fonts/PlusJakartaSans-Italic-VariableFont_wght.woff') format('woff');
+    font-style: italic;
+}
+

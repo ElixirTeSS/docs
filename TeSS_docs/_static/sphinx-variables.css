@@ -16,3 +16,6 @@ html[data-theme="dark"] {
     --pst-color-secondary: #047eaa;
 }
 
+h1, h2, h3 {
+    --pst-font-family-heading: "PlusJakartaSans-VariableFont_wght", "Segoe UI", "Helvetica Neue", "Arial", sans-serif;
+}
