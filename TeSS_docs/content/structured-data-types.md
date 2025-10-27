@@ -13,6 +13,13 @@ If your website currently includes no structured data, and you’d like your res
 
 Schema.org is a project run by a consortium of search engines. Schema.org has created an extensive library of schemas that web-masters can use to explicitly mark-up their websites content in order to improve search engine visibility and interoperability.
 
+````{margin}
+```{image} ../images/content/bioschemas-square.svg
+:alt: Bioschemas logo
+:width: 100px
+```
+````
+
 Bioschemas is an initiative to supplement the work of schema.org to help improve the findability of online resources in the life sciences.
 
 The two main activities of Bioschemas are:
