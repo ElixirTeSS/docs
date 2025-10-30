@@ -22,7 +22,7 @@ To browse content providers:
 ## Registering content providers
 
 Content providers can be created by any registered user. 
-New providers must be approved by an administrtor. [TBC] ❓
+New providers must be approved by an administrator. [TBC] ❓
 
 To register a content provider:
 
