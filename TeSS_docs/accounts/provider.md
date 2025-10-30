@@ -3,12 +3,13 @@
 Content providers are entities (such as academic institutions, non-profit organisations, portals) that provide training materials of relevance to your community. 
 Every event or training material in TeSS is associated with precisely one content provider. 
 
-Each content provider has the following properties:
-
+```{admonition} Each content provider has the following properties:
+:class: note
 * Title, URL, description, logo, keywords
 * One of three types: Organisation, Project, Portal
 * One or more approved editors (TeSS user accounts)
 * In ELIXIR TeSS: one ELIXIR national node
+```
 
 ## Viewing content providers
 Content providers can be browsed and searched in TeSS.

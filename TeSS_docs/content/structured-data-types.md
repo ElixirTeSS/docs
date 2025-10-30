@@ -46,8 +46,9 @@ for training materials
 :::
 ::::
 
-```{note} 
-If your domain is not life sciences, your materials can still use these Bioschemas profiles. See [schemas.science](https://schemas.science) for domain-agnostic profiles. The Course, CourseInstance and TrainingMaterial profiles in schemas.science are equivalent to the Bioschemas profiles of the same name. 
+```{admonition} Not life sciences? 
+:class: hint
+If your domain is not life sciences, your materials can still use these Bioschemas profiles. See [schemas.science](https://schemas.science) for domain-agnostic profiles. The Course, CourseInstance and TrainingMaterial profiles in schemas.science are equivalent to the Bioschemas profiles of the same name. They all extend schema.org.
 ```
 
 
