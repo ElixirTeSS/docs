@@ -37,14 +37,22 @@ mTeSS-X
     The project aims to enhance existing TeSS-based training registries or catalogues like [ELIXIR TeSS (life sciences)](https://tess.elixir-europe.org/) and [PaN-Training (photon and neutron)](https://www.panosc.eu/training-catalogue/) by building an aggregator for these and similar platforms.
 
 Space (mTeSS)
-    A single TeSS instance presents multiple tailored spaces (catalogues) whose selections of training material are “views” on a global catalogue. 
+    A single TeSS instance can present multiple tailored spaces (catalogues) whose selections of training material are “views” on a global catalogue. 
     Each community registers, maintains and curates their material for their members in their own virtual space in the common portal environment.
     See [Introduction to spaces](../spaces/intro-spaces) for details.
 
 TeSSHub
-    The first TeSS instance with multiple spaces. This will be one of the outputs from the mTeSS-X project, where [ELIXIR TeSS (life sciences)](https://tess.elixir-europe.org/) and [PaN-Training (photon and neutron)](https://www.panosc.eu/training-catalogue/) will be multipe spaces running from the same server, appearing as distinct catalogue. 
+    The platform name for a TeSS instance with multiple [spaces](#term-Space-mTeSS) 
+    that can [exchange](#term-Exchange-TeSS-X) materials with other instances.
+    The TeSSHub is one of the outputs from the mTeSS-X project, 
+    where [ELIXIR TeSS (life sciences)](https://tess.elixir-europe.org/) 
+    and [PaN-Training (photon and neutron)](https://www.panosc.eu/training-catalogue/) 
+    will be running multipe spaces from the same server, appearing as distinct catalogues, 
+    and can share relevant materials. 
     
-    Communities will be welcome to request their own space on the TeSSHub, providing them with their own registry, without the need to host and maintain their own instance.  
+    Communities will be welcome to [request their own space](../spaces/instance-or-space/)
+    on a TeSSHub, providing them with their own registry, 
+    without the need to host and maintain their own instance.  
 
 TeSS Platform
     The main codebase which is used for development, written in Ruby on Rails. The code is open source and [available on GitHub](https://github.com/ElixirTeSS/TeSS) under a BSD 3-Clause licence. 
