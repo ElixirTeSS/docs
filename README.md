@@ -1,10 +1,10 @@
 # Documentation for TeSS Platform
 
-https://elixirtess.github.io/docs/
+<https://elixirtess.github.io/docs/>
 
 Separate the training docs/help content to separate repo, like [IBISBA Handboook](https://ibisba.github.io/workshop/docs/intro.html).
 
-Built using [Jupyter Book 1](https://jupyterbook.org/). For additional guidance, see:
+Built using [Jupyter Book 1](https://jupyterbook.org/stable/resources/faq/#faq-general). For additional guidance, see:
 
 - [Anatomy of a Jupyter Book (TeachBooks.io)](https://teachbooks.io/manual/basic-features/jupyterbook.html)
 - [Sphinx Design (the engine behind Jupyter Book)](https://sphinx-design.readthedocs.io/en/latest/) including [CSS classes](https://sphinx-design.readthedocs.io/en/pydata-theme/css_classes.html)
@@ -23,7 +23,6 @@ python -m venv venv
 source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
-pip install -U jupyter-book
 jupyter-book build TeSS_docs/
 ```
 
@@ -40,3 +39,6 @@ The build command in the GitHub Action includes:
 ```shell
 jupyter-book build --builder dirhtml TeSS_docs/
 ```
+
+> [!NOTE]
+> These instructions will change with the [release of Jupyter Book 2](https://jupyterbook.org/stable/resources/upgrade/). 
