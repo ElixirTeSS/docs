@@ -6,10 +6,6 @@ Collections can be thought of as folders in which users may collect particular t
 
 ## Creating collections
 
-```{tip}
-You must register training materials or events before you create a collection.
-```
-
 Steps to create a collection:
 
 1. On the 'Collections' tab, click the 'Create collection' button at the top-right.
