@@ -2,7 +2,14 @@
 
 ## What is a collection?
 
-Collections can be thought of as folders in which users may collect particular training materials or events, from the full catalogue available within TeSS to address their specific training needs. Collections are visible to the public by default.
+Collections can be thought of as folders in which users may collect particular training materials or events, from the full catalogue available within TeSS to address their specific training needs. Collections are visible to the public by default. 
+The Collections feature must be enabled by the site administrator. 
+
+```{admonition} Examples of collections can be seen on the following instances of TeSS:
+:class: seealso
+* [Collections on ELIXIR TeSS](https://tess.elixir-europe.org/collections)
+* [Collections on Taxila](https://taxila.nl/collections)
+```
 
 ## Creating collections
 
@@ -46,3 +53,4 @@ Collections can be browsed and searched in TeSS. They are organised by keyword.
 
 1. To view the collections, click ‘Collections’ in the main menu. (Tip: To view a collection you do not need to be logged in to TeSS.)
 2. Click to view a collection. Read the summary box. The details of the included training materials and events appear in two tabs; click each item to open it. Information about the collection appears on the left.
+3. Events that have passed will not be shown by default. If there are passed events, this is indicated by an asterisk next to the number of events.  
