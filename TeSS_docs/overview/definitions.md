@@ -15,6 +15,9 @@ Collection
 Content provider
     Entities (such as academic institutions, non-profit organisations, portals) that provide training materials of relevance.
 
+e-Learning
+    e-Learning materials are curated materials focused on e-Learning. 
+
 ELIXIR TeSS Portal
     The [ELIXIR TeSS](https://tess.elixir-europe.org/) portal, the training registry for Europe's distributed infrastructure for life-science data, is built using the TeSS Platform.
 
