@@ -8,6 +8,10 @@ Definition of common terms used across TeSS, sorted alphabetically.
 
 ```{glossary}
 
+Collection
+    Collections can be thought of as folders in which users may collect particular training materials or events, from the full catalogue available within TeSS to address their specific training needs. 
+    See [Collections in TeSS](../content/collections) for details.
+
 Content provider
     Entities (such as academic institutions, non-profit organisations, portals) that provide training materials of relevance.
 
@@ -30,7 +34,8 @@ Instance
     Examples of TeSS instances can be viewed on the [global usages page](global).
 
 Learning path
-    A a pathway that guides learners through a set of modules (courses/materials) to be undertaken progressively (from lower- to higher-order thinking skills) to acquire the desired knowledge and skills on a subject by the end of the pathway.
+    A a pathway that guides learners through a set of modules (courses/materials) to be undertaken progressively (from lower- to higher-order thinking skills) to acquire the desired knowledge and skills on a subject by the end of the pathway. 
+    See [Learning paths in TeSS](../content/learning-paths) for details.
 
 mTeSS-X 
     The [mTeSS-X Project](mtess-x) (Multi-space Training e-Support System with eXchange) overcomes the fragmentation of training resources across Research Infrastructures and the European Science Clusters.
@@ -50,7 +55,7 @@ TeSSHub
     will be running multipe spaces from the same server, appearing as distinct catalogues, 
     and can share relevant materials. 
     
-    Communities will be welcome to [request their own space](../spaces/instance-or-space/)
+    Communities may be welcome to [request their own space](../spaces/instance-or-space/)
     on a TeSSHub, providing them with their own registry, 
     without the need to host and maintain their own instance.  
 
@@ -61,6 +66,11 @@ Training material
     In the context of TeSS, a training material is a link to a single online training material sourced by a content provider (such as a text on a Web page, presentation, video) along with description and other meta information (e.g. ontological categorization, keywords).
     
     Materials can be added manually or automatically harvested from a provider's website.
+    
+Workflow
+    Training workflows in TeSS are visual, step-by-step protocols that allow users to navigate materials in TeSS in topic- or task-related ways. 
+    For example, they may encapsulate typical stages of particular kinds of data analysis (protein sequence analysis, structure analysis, etc.), where each stage/node in the workflow represents a given analysis step and links to the corresponding training resources. 
+    See [Workflows in TeSS](../content/workflows) for details.
 ```
 
 ## Materials
