@@ -5,7 +5,7 @@
 A learning path is a pathway that guides learners through a set of modules (courses/materials) to be undertaken progressively (from lower- to higher-order thinking skills) to acquire the desired knowledge and skills on a subject by the end of the pathway.
 
 ## Editorial process for Learning Paths in TeSS
-There are several roles associated with learning paths, see the [Definitions page](../overview/definitions#roles).
+There are several roles associated with learning paths, see the [Definitions page](../overview/definitions).
 
 Before registering a learning path, a training provider must:
 

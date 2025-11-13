@@ -51,6 +51,8 @@ In order to advance their skills, trainees need to embark on a path, or developm
 To facilitate this journey, learning paths aim to structure, within simple visual workflows, the set of relevant training resources that trainees need to study in order to accomplish their learning objectives. 
 Learning paths are being developed by ELIXIR TeSS, ELIXIR-NL and ELIXIR UK.
 
+See [Learning paths in TeSS](../content/learning-paths) for details.
+
 :::
 
 :::{grid-item-card}
@@ -63,6 +65,8 @@ ii) a series of questions or ‘Reflections’ to provoke critical thinking abou
 iii) additional background information and further reading to help support learning and enquiry; 
 and iv) multiple choice quiz questions to evaluate understanding at the end. 
 Educational Resources for introductory sequence and structural bioinformatics are currently being developed by ELIXIR TeSS, ELIXIR-UK and the UK Structural Bioinformatics group (via the FunPDBe project).
+
+See [Workflows in TeSS](../content/workflows) for details.
 
 :::
 
