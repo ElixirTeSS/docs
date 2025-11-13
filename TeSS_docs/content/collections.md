@@ -54,3 +54,5 @@ Collections can be browsed and searched in TeSS. They are organised by keyword.
 1. To view the collections, click ‘Collections’ in the main menu. (Tip: To view a collection you do not need to be logged in to TeSS.)
 2. Click to view a collection. Read the summary box. The details of the included training materials and events appear in two tabs; click each item to open it. Information about the collection appears on the left.
 3. Events that have passed will not be shown by default. If there are passed events, this is indicated by an asterisk next to the number of events.  
+
+Collections can also be viewed in a TeSS [widget](../developers/code-data). See an example of a [widget with materials in a collection](https://elixirtess.github.io/TeSS_widgets/#materials-collection).
