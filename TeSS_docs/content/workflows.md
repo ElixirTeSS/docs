@@ -5,6 +5,11 @@
 Training workflows in TeSS are visual, step-by-step protocols that allow users to navigate materials in TeSS in topic- or task-related ways.
 For example, they may encapsulate typical stages of particular kinds of data analysis (protein sequence analysis, structure analysis, etc.), where each stage/node in the workflow represents a given analysis step and links to the corresponding training resources. Workflows are visible to the public by default.
 
+```{admonition} Examples of workflows can be seen on the following instances of TeSS:
+:class: seealso
+* [Workflows on ELIXIR TeSS](https://tess.elixir-europe.org/workflows) (deprecated)
+* [Workflows on PaN Training](https://pan-training.eu/workflows)
+```
 
 ## Creating workflows
 
