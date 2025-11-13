@@ -30,6 +30,8 @@ parts:
     - file: content/manual
       sections:
       - file: content/manual-events-materials
+      - file: content/collections
+      - file: content/workflows
       - file: content/learning-paths
   - caption: Developers
     chapters:
