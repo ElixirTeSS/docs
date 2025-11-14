@@ -194,6 +194,19 @@ Sponsors
 
 ```
 
+
+## Workflows
+
+Definitions of additional fields used to describe workflows, sorted in the order they appear when editing a workflow. See also [definitions of fields used in materials](#materials).
+
+```{glossary}
+
+Associations
+    Include any training material, event, tool or policy that is associated with the workflow.
+    For each association, provide a title and a URL.
+```
+
+
 ## Roles
 
 Definitions of user roles in TeSS. 

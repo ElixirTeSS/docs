@@ -5,6 +5,13 @@
 Training workflows in TeSS are visual, step-by-step protocols that allow users to navigate materials in TeSS in topic- or task-related ways.
 For example, they may encapsulate typical stages of particular kinds of data analysis (protein sequence analysis, structure analysis, etc.), where each stage/node in the workflow represents a given analysis step and links to the corresponding training resources. Workflows are visible to the public by default.
 
+````{margin}
+```{image} ../images/content/workflows-screenshot.png
+:alt: Screenshot of workflow on PaN Training
+:width: 200px
+```
+````
+
 ```{admonition} Examples of workflows can be seen on the following instances of TeSS:
 :class: seealso
 * [Workflows on ELIXIR TeSS](https://tess.elixir-europe.org/workflows) (deprecated)
@@ -23,6 +30,14 @@ Steps to create a workflow:
 6. Repeat step 5 to add multiple nodes for this workflow.
 8. You can move the nodes in the diagram area.
 9. When you have finished, click the ‘Create workflow’ button.
+
+### Fork a workflow
+
+Alternatively, you can 'fork' an existing workflow; in other words, take a copy and modify it to appear as a new, distinct workflow that you own. 
+
+1. Navigate to the page for the original workflow.
+2. Click the ‘Fork’ button at the top-right of the page.
+3. Make your changes then click the ‘Save workflow’ button at the bottom.
 
 
 ### Managing collaborators

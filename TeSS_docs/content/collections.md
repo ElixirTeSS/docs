@@ -3,7 +3,15 @@
 ## What is a collection?
 
 Collections can be thought of as folders in which users may collect particular training materials or events, from the full catalogue available within TeSS to address their specific training needs. Collections are visible to the public by default. 
-The Collections feature must be enabled by the site administrator. 
+The Collections feature must be enabled by the site administrator.
+
+````{margin}
+```{image} ../images/content/collections-screenshot.png
+:alt: Screenshot of collection on ELIXIR TeSS
+:width: 200px
+```
+````
+
 
 ```{admonition} Examples of collections can be seen on the following instances of TeSS:
 :class: seealso
