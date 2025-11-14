@@ -4,9 +4,9 @@ TeSS also provides a subscription feature to help users to stay informed about c
 The service may be customised by selecting the relevant filters, and initiated via the subscribe button. 
 Users may choose to receive email notifications about upcoming events, or have them automatically added to their preferred calendar application.
 
-## Adding scriptions
+## Adding subscriptions
 
-To add a scription:
+To add a subscription:
 
 1. Apply a choice of filters to show the type of events you are interested in.
 2. Click the 'Subscribe' button near the top of the results to email alerts or track events in your calendar application.
