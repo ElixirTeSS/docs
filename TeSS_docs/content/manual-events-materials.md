@@ -6,6 +6,11 @@ To do so, first [register for a free account](../accounts/user). Members of acad
 
 Once registered and logged in, the 'Register event' and 'Register material' buttons will become visible on the events and materials tabs.
 
+```{admonition} See also guidance from the ELIXIR Training Platform
+:class: seealso
+* [Manual registration of events, material and a provider](https://elixir-europe-training.github.io/ELIXIR-TrP-TeSS/chapters/chapter_02/)
+```
+
 ## Manually register training materials
 
 To register a training material:

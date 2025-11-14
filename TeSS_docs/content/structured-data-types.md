@@ -7,7 +7,10 @@ The following are examples of the kinds of structured data that TeSS can work wi
 
 If your website currently includes no structured data, and you’d like your resources added to TeSS, we recommend using [Bioschemas](http://bioschemas.org/) to structure your site.
 
-
+```{admonition} See also guidance from the ELIXIR Training Platform
+:class: seealso
+* [Automatic ingestion of events or material via Bioschemas](https://elixir-europe-training.github.io/ELIXIR-TrP-TeSS/chapters/chapter_04/)
+```
 
 ## Schema .org / Bioschemas / schemas.science
 

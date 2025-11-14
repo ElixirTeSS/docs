@@ -31,7 +31,7 @@ Steps to create a workflow:
 8. You can move the nodes in the diagram area.
 9. When you have finished, click the ‘Create workflow’ button.
 
-### Fork a workflow
+### Forking a workflow
 
 Alternatively, you can 'fork' an existing workflow; in other words, take a copy and modify it to appear as a new, distinct workflow that you own. 
 

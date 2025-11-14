@@ -36,6 +36,10 @@ Widgets are chunks of javascript code that can be copied into website source cod
 View our available widgets
 ```
 
+```{admonition} See also guidance from the ELIXIR Training Platform
+:class: seealso
+* [Integrating TeSS widgets on your web site](https://elixir-europe-training.github.io/ELIXIR-TrP-TeSS/chapters/chapter_03/)
+```
 
 ## API
 
