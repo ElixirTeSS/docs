@@ -7,7 +7,7 @@ If the request is approved, the administration team will create the space for yo
 Further details about the governance of spaces are decided by the administration team of each TeSS instance.
 
 ```{admonition} The following TeSS instances support mutiple spaces:
-:class: note
+:class: seealso
 * ELIXIR TeSS (coming soon; until then, see [ELIXIR TeSS sandbox](https://dev.tess.elixir-europe.org/spaces))
 * PaN Training (coming soon)
 * Other instances to be announced
