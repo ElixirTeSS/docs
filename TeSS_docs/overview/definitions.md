@@ -151,12 +151,13 @@ Type
     Describing the whether the event will be held Face-to-face, Online or both (hybrid).
  
 Subtitle
-    
+    Include a subtitle to add context for your intended audience.
+
 URL
     Location where the event and its details are advertised on the internet.
  
 Duration
-    Time slot assigned/required for the event, for example, 2hrs, 2days.
+    How long the training event will run for, in hours and minutes (HH:MM).
  
 Language of instruction
     The language in which the training/seminar/lecture will be delivered. 
@@ -167,7 +168,10 @@ Address, Venue, City, Region, Postcode
  
 Eligibility
     Options for registration. 
-    To be chosen from one of the three: 1. First come first served, 2. Registration of Interest, 3. By invitation.
+    To be chosen from one of the three: 
+    - First come first served
+    - Registration of Interest
+    - By invitation
  
 Organiser
     Institution/Organisation or the individual coordinating to organise the event.
@@ -177,6 +181,7 @@ Host institutions
  
 Capacity
     Maximum number of participants that can take part in the event.
+    Leave blank if there is no limit.
  
 Event type
     The category of an event based on its purpose, format, and activities. 
@@ -186,6 +191,25 @@ Event type
     - Receptions and networking
     - Workshops and courses
  
+Tech requirements
+    Indicate the technical requirements needed to participate in the training event.
+
+Credit or Recognition of Attendance
+    Provide a description of any qualifications, awards, certificates, diplomas, or other educational credentials that will be awarded on successful completion of the training event.
+
+External resources
+    Include links to tools, policies, standards or databases to associate with this resource.
+    For ELIXIR TeSS, you can search [FAIRsharing](https://fairsharing.org/), the [ELIXIR Tools and Data Services Registry](http://bio.tools/), or enter a title and URL. 
+
+Cost basis
+    Select the basis by which costs, if any, are applied. Select from:
+    - Free to all
+    - Cost to non-members
+    - Cost incurred by all
+
+Materials
+    Add any training materials that are associated with the training event.
+
 Nodes (ELIXIR Specific)
     The ELIXIR Node (Country) hosting the event 
  
