@@ -101,7 +101,6 @@ Keywords
 License
     The most appropriate license that specifies the terms under which your training material and dataset can be used, modified, and distributed. 
     Various options of licenses, for example, Creative Commons License are available to choose from. 
-    Free text is allowed if your license is not available in the menu.
 
 Status
     The current state or stage of the training material indicating whether it is Active, Under development, or Archived.
@@ -167,7 +166,7 @@ Address, Venue, City, Region, Postcode
     Physical location of the event if its being conducted Face-to-face.
  
 Eligibility
-    Options for registration. 
+    Who can attend the training event.  
     To be chosen from one of the three: 
     - First come first served
     - Registration of Interest

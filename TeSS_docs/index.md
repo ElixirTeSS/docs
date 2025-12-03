@@ -155,4 +155,10 @@ TeSS has been funded by:
 [![HZDR logo](images/funding/hzdr.png)](https://www.hzdr.de/db/Cms?pOid=44909&pNid=0&pLang=en)
 :::
 
+:::{grid-item}
+:class: justify-content-center
+[![Helmholtz logo](images/funding/helmholtz.svg)](https://www.helmholtz.de/)
+:::
+
+
 ::::
