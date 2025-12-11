@@ -9,16 +9,12 @@ Please note that for all other features, the roadmap is not a project plan or re
 The TeSS Club is a very dynamic and agile team, and the roadmap is reviewed and updated regularly. 
 Its purpose is to give a general indication of intent and direction of travel.
 
-## October 2025 to January 2026 (mTeSS-X)
+## October 2025 to January 2026
 
-* mTeSS-X Deliverable D2: Functional and configurable mTeSS multi-space TeSS
-* mTeSS-X Deliverable D3: TeSS-X Instances with OAI-PMH endpoint
-* mTeSS-X Deliverable D4: Onboarding guides, user guides for mTeSS
+* Functional and configurable mTeSS multi-space TeSS (mTeSS-X Deliverable D2)
+* TeSS-X Instances with OAI-PMH endpoint (mTeSS-X Deliverable D3)
+* Onboarding guides, user guides for mTeSS (mTeSS-X Deliverable D4)
 
-## February 2026 to September 2026 (mTeSS-X)
-
-* mTeSS-X Deliverable D5: Project results and methodology
-* mTeSS-X Deliverable D6: Final report, presentation
 
 ## Future work
 
@@ -33,4 +29,4 @@ Its purpose is to give a general indication of intent and direction of travel.
 
 ## Completed activities 
 
-* mTeSS-X Deliverable D1: [Requirements analysis](https://doi.org/10.5281/zenodo.15120731)
+* [Requirements analysis (mTeSS-X Deliverable D1)](https://doi.org/10.5281/zenodo.15120731)
