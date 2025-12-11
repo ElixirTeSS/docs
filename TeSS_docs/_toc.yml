@@ -38,5 +38,6 @@ parts:
     chapters:
     - file: developers/code-data
     - file: developers/credit
+    - file: developers/roadmap
     - url: https://github.com/ElixirTeSS/TeSS/tree/master/docs
       title: Developer guides (on GitHub)
