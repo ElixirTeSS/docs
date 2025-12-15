@@ -15,16 +15,3 @@ TeSS was originally developed as part of [ELIXIR](https://elixir-europe.org/), E
 One of the goals of ELIXIR is to train research scientists to better use available computational infrastructures to address critical research questions. 
 This requires access both to face-to-face training opportunities and to disparate training materials and resources, currently dispersed across Europe.
 
-## Searching for training resources in TeSS
-
-Training resources (both events and materials) may be searched in TeSS in several ways. 
-If you are on the main page of TeSS, a general search can be performed based on keywords, which will return separate lists of events and materials. 
-
-Alternatively, events or materials can be searched for independently of each other. 
-This second approach allows more precise filtering on several parameters (e.g., event type, country, and target audience) alone or in combination.
-
-
-```{admonition} See also guidance from the ELIXIR Training Platform
-:class: seealso
-* [Searching in TeSS](https://elixir-europe-training.github.io/ELIXIR-TrP-TeSS/chapters/chapter_01/)
-```

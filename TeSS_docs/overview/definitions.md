@@ -229,6 +229,32 @@ Associations
     For each association, provide a title and a URL.
 ```
 
+## Searching
+
+Definitions of filters and other controls that show when searching for training.
+
+```{glossary}
+
+Only show online events
+    Hide events that are marked as Face-to-face. False by default.
+    
+Show events/materials from all spaces
+    Show training that match your search criteria from all spaces on this TeSS instance, not just the current space. False by default.
+
+Show past events
+    Show events where the date is in the past. False by default.
+    
+Show disabled events/materials
+    Show training where the provider has chosen not to show the event yet in search results, perhaps because the event entry is still in development. False by default.
+
+Show hidden items
+    This filter is for curators only. Show training created by unverified users, and users that have been flagged as spammers. False by default.
+
+Show archived materials/learning paths/collections
+    Show training where the provider has set the [status](#term-Status) as Archived.  False by default.
+
+```
+
 
 ## Roles
 
