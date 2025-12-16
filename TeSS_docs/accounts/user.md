@@ -6,7 +6,8 @@ If you want to register your materials, you can register for a user account.
 
 ```{admonition} Note for mutli-space TeSS instances
 :class: note
-If a TeSS instanace has multiple [spaces](../spaces/intro-spaces), please register a user account separately for each space.
+If a TeSS instanace has multiple [spaces](../spaces/intro-spaces), please register one user account for all spaces. 
+For security reasons, you will need to log in to each space separately, even though you are using the same account.
 ```
 
 ## Register by email address
