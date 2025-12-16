@@ -49,6 +49,17 @@ Multi-spaces and exchange
 :gutter: 3
 
 :::{grid-item-card}
+:link: search/searching
+:link-type: doc
+
+{fas}`magnifying-glass;sd-text-secondary` **Search**
+^^^
+
+Searching for training resources, precise filtering for events or materials
+:::
+
+
+:::{grid-item-card}
 :link: accounts/user
 :link-type: doc
 
