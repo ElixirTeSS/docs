@@ -19,7 +19,13 @@ Use the tabs at the top of the page to browse events or materials separately the
 :::
 ::::
 
-![Search illustration](../images/search/search-intro.svg)
+```{image} ../images/search/search-intro.svg
+:alt: Graphic of how to start to search
+:class: mb-1
+:width: 500px
+:align: center
+```
+
 
 Browsing by events or materials allows more precise filtering on several parameters (such as event type, country, and target audience), alone or in combination. You can also search for content providers, users and other types of training.
 
