@@ -9,7 +9,7 @@ Further details about the governance of spaces are decided by the administration
 ```{admonition} The following TeSS instances support mutiple spaces:
 :class: seealso
 * ELIXIR TeSS (coming soon; until then, see [ELIXIR TeSS sandbox](https://dev.tess.elixir-europe.org/spaces))
-* PaN Training (coming soon)
+* PaN Training (coming soon; until then, see [de.KCD test space](https://kcd.tesshub.hzdr.de/))
 * Other instances to be announced
 ```
 
