@@ -24,6 +24,16 @@ Governance: Maintaining the learning path
 - The curator can assign collaborators to work on each learning path, depending on the expertise required.
 ```
 
+ ```{topic}  Creating ELIXIR Learning Paths
+ 
+If you would like to create an ELIXIR Learning Path, [please complete this form](https://docs.google.com/forms/d/e/1FAIpQLSeZcoZyxsDpneV7fidqXhKCPeKuQe9fW8eZkl7geyQ2oU7q-A/viewform?usp=sharing&ouid=108152593873011990548).
+ELIXIR Learning Paths follow a Standard Operating Procedure (SOP) to ensure quality, consistency, and long-term sustainability. 
+[Further details about the process are available here.](https://docs.google.com/document/d/10IwJeTXViT1wNHMyfNhUQhSD1p1NCWdOj_Q6sw_SAWk/edit?usp=sharing)
+
+After you submit the form, a member of the ELIXIR Learning Paths Editorial Board will contact you to discuss your proposal and outline the next steps.
+```
+
+
 ## Overview of registering learning paths
 
 To register a learning path you need to follow the three steps described below:
