@@ -100,7 +100,8 @@ Keywords
 
 License
     The most appropriate license that specifies the terms under which your training material and dataset can be used, modified, and distributed. 
-    Various options of licenses, for example, Creative Commons License are available to choose from. 
+    Various [options of licenses are available to choose from](https://spdx.org/licenses/), 
+    for example, [Creative Commons Attribution 4.0 International](https://spdx.org/licenses/CC-BY-4.0.html). 
 
 Status
     The current state or stage of the training material indicating whether it is Active, Under development, or Archived.
