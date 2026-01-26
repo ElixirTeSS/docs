@@ -16,7 +16,7 @@ Currently available admin-managed ingestion methods:
 
 For other methods, please [contact us](https://tess.elixir-europe.org/about/us#contact) to discuss how to register your content automatically in TeSS.
 
-## Google Sheet
+## Google Sheets
 
 Our preferred options are for you to provide [structured data markup](structured-data-types) directly in the webpages that describe your training materials, or provide a single page with the markup for all the materials. This may not be possible, for example, if you have technical restrictions with your content management system.
 
