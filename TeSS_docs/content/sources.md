@@ -12,7 +12,7 @@ Currently available user-managed ingestion methods:
 
 Currently available admin-managed ingestion methods:
 
-- [Google Sheet](#google-sheet)
+- [Google Sheets](#google-sheets)
 
 For other methods, please [contact us](https://tess.elixir-europe.org/about/us#contact) to discuss how to register your content automatically in TeSS.
 
