@@ -24,7 +24,7 @@ We offer an alternative option for a user to provide a collection of training ma
 
 To prepare and register a spreadsheet of materials to ingest:
 
-1. Create a new Google Sheet.
+1. Create a new Google Sheets spreadsheet.
 2. Open the template Google Sheet: https://docs.google.com/spreadsheets/d/1yx2AZTPaPEU_Au2Hyb_C3TuNvH4btR9pZwCmfmTQRdc/.
 3. Select everything from the `Example` sheet {kbd}`CTRL/CMD+A`, copy and paste it in your empty new sheet.
 4. Enter the details of your training materials under the headings provided. 
