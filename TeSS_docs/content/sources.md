@@ -34,6 +34,6 @@ To prepare and register a spreadsheet of materials to ingest:
   ```
   ````
 5. One row corresponds to one training material, you can add as many rows/materials as you want.
-6. Once your Google Sheet is ready, give the URL to your TeSS administrator and ask them to use it for the Materials Ingestion Method: CSV File and Google Spreadsheet.
+6. Once your Google Sheets spreadsheet is ready, give the URL to your TeSS administrator and ask them to use it for the Materials Ingestion Method: CSV File and Google Spreadsheet.
 
 TeSS will scan your spreadsheet once per day to ingest any new and changed training materials.
