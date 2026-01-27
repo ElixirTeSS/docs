@@ -6,13 +6,22 @@ Once registered, a source will need to be approved by an administrator before it
 
 To register a source, click the "Sources" tab on your content provider page, or if you have not yet registered a content provider, see our page [Provider account creation](../accounts/provider).
 
-Currently available user-managed ingestion methods:
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item-card}
+Currently available **user-managed** ingestion methods:
 
 - Bioschemas / Schema.org / schemas.science
 
-Currently available admin-managed ingestion methods:
+:::
+:::{grid-item-card}
+Currently available **admin-managed** ingestion methods:
 
 - [Google Sheets](#google-sheets)
+
+:::
+::::
 
 For other methods, please [contact us](https://tess.elixir-europe.org/about/us#contact) to discuss how to register your content automatically in TeSS.
 
