@@ -8,7 +8,7 @@ To register a source, click the "Sources" tab on your content provider page, or 
 
 Currently available user-managed ingestion methods:
 
-- Bioschemas
+- Bioschemas / Schema.org / schemas.science
 
 Currently available admin-managed ingestion methods:
 
