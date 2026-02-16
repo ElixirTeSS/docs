@@ -11,6 +11,7 @@ parts:
     - file: overview/mtess-x
     - file: overview/definitions
     - file: overview/what-we-catalogue
+    - file: overview/fair
   - caption: Search
     chapters:
     - file: search/searching
