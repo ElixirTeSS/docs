@@ -6,10 +6,10 @@ It is a one-stop-shop for trainers and trainees to discover training materials, 
 
 For providers, the TeSS Platform makes it easy to make resources [FAIR](http://doi.org/10.1038/sdata.2016.18) (Findable, Accessible, Interoperable, and Reusable):
 
-- **Findable**:  PID/DOI is requested for all materials
-- **Accessible**: TeSS materials/events are accessible to all registered users via the TeSS website, widgets or JSON API
-- **Interoperable**: Metadata uses a standard vocabulary (EDAM for ELIXIR), expose content using Schema.org
-- **Reusable**: License is requested for all materials
+- **Findable**:  A unique, persistent identifier such as [DOI](https://www.doi.org/the-identifier/what-is-a-doi/) is requested for all materials. (For example, [publish your materials in Zenodo](https://help.zenodo.org/docs/get-started/quickstart/) to be assigned a DOI.)
+- **Accessible**: TeSS materials/events are accessible to all registered users via the TeSS website, widgets or JSON API. Your content will seen more in search results owing to our search-engine optimisation (SEO).
+- **Interoperable**: Metadata uses a standard vocabulary (EDAM for ELIXIR). We expose content using Schema.org (Bioschemas) and OAI-PMH open standards.
+- **Reusable**: License is requested for all materials, such as Creative Commons.
 
 
 ## Exposed metadata behind each page
