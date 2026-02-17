@@ -50,9 +50,10 @@ https://tess.elixir-europe.org/events.json_api
 https://tess.elixir-europe.org/materials.json_api?scientific_topics=RNA-Seq
 https://tess.elixir-europe.org/content_providers.json_api
 https://tess.elixir-europe.org/workflows.json_api
+https://tess.elixir-europe.org/materials/how-to-make-your-messy-data-usable-openrefine.json_api
 ```
 
-To get direct access to the metadata on individual materials or events, append `.jsonld` instead:
+To get [Bioschemas](https://bioschemas.org) JSON-LD representation of individual materials or events, append `.jsonld` instead:
 
 ```
 https://tess.elixir-europe.org/materials/how-to-make-your-messy-data-usable-openrefine.jsonld
