@@ -9,6 +9,7 @@ Every event or training material in TeSS is associated with precisely one conten
 * One of three types: Organisation, Project, Portal
 * One or more approved editors (TeSS user accounts)
 * In ELIXIR TeSS: one ELIXIR national node
+* In Taxila: Content providers are called 'Partners' and have the same properties
 ```
 
 ## Viewing content providers
