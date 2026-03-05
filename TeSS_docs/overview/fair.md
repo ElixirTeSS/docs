@@ -24,7 +24,7 @@ In [ELIXIR TeSS](https://tess.elixir-europe.org/), you can associate your traini
 {fas}`screwdriver-wrench;sd-text-secondary` **bio.tools**
 ^^^
 
-A community-driven registry of bioinformatics software and data resources.
+A community-driven registry of bioinformatics software tools, databases, analysis workflows, and services.
 :::
 
 :::{grid-item-card}
@@ -32,7 +32,7 @@ A community-driven registry of bioinformatics software and data resources.
 {fas}`share-nodes;sd-text-secondary` **FAIRsharing**
 ^^^
 
-A curated resource on data and metadata standards, inter-related to databases and data policies.
+A curated resource focused on databases, and the policies, standards, formats and vocabularies they use.
 :::
 ::::
 
