@@ -61,7 +61,7 @@ Canadian digital research infrastructure training (Digital Research Alliance of 
 :::
 
 :::{grid-item-card}
-:link: https://training.cern.ch/
+:link: http://heptraining.cern.ch/
 {fas}`earth-europe;sd-text-secondary` **HEP Training**
 ^^^
 ![HEP Training logo](../images/overview/hep-training-logo.png)
