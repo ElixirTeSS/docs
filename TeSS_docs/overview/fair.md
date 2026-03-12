@@ -12,6 +12,43 @@ For providers, the TeSS Platform makes it easy to make resources [FAIR](http://d
 - **Reusable**: License is requested for all materials, such as Creative Commons.
 
 
+## Integration with tools, policies, standards and data registries
+
+In [ELIXIR TeSS](https://tess.elixir-europe.org/), you can associate your training materials with resources held in other ELIXIR resources: 
+
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item-card}
+:link: https://bio.tools/
+{fas}`screwdriver-wrench;sd-text-secondary` **bio.tools**
+^^^
+
+A community-driven registry of bioinformatics software tools, databases, analysis workflows, and services.
+:::
+
+:::{grid-item-card}
+:link: https://fairsharing.org/
+{fas}`share-nodes;sd-text-secondary` **FAIRsharing**
+^^^
+
+A curated resource focused on databases, and the policies, standards, formats and vocabularies they use.
+:::
+::::
+
+When you manually edit your training material in TeSS, you can search for bio.tools and FAIRsharing resources directly. 
+If your training material is automatically ingested into TeSS, you can add the URL of each the resources into the Bioschemas markup under the `mentions` property: if the URL begins with `https://bio.tools/` or `https://fairsharing.org/` then TeSS will correctly pick up the resource. For example:
+
+```json
+{
+  "mentions": [
+    {"@type": "Thing", "url": "https://bio.tools/tool/galaxy", "name": "Galaxy"},
+    {"@type": "Thing", "url": "https://fairsharing.org/FAIRsharing.nb9zzm", "name": "F1000Research Data Guidelines"}
+  ]
+}
+```
+
+
 ## Interoperate using Linked Data
 
 When you view a material or event on TeSS, there is machine-readable metadata behind the human-readable content. 
