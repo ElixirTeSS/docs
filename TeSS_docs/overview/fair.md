@@ -36,8 +36,8 @@ A curated resource focused on databases, and the policies, standards, formats an
 :::
 ::::
 
-When you manually edit your training material in TeSS, you can search for bio.tools and FAIRsharing resources directly. 
-If your training material is automatically ingested into TeSS, you can add the URL of each the resources into the Bioschemas markup under the `mentions` property: if the URL begins with `https://bio.tools/` or `https://fairsharing.org/` then TeSS will correctly pick up the resource. For example:
+When you [manually edit your training material in TeSS](../content/manual-events-materials), you can search for bio.tools and FAIRsharing resources directly. 
+If your training material is [automatically ingested into TeSS](../content/structured-data-types), you can add the URL of each the resources into the Bioschemas markup under the `mentions` property: if the URL begins with `https://bio.tools/` or `https://fairsharing.org/` then TeSS will correctly pick up the resource. For example:
 
 ```json
 {
