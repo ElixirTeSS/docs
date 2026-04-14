@@ -8,8 +8,42 @@ For providers, the TeSS Platform makes it easy to make resources [FAIR](http://d
 
 - **Findable**:  A unique, persistent identifier such as [DOI](https://www.doi.org/the-identifier/what-is-a-doi/) is requested for all materials. (For example, [publish your materials in Zenodo](https://help.zenodo.org/docs/get-started/quickstart/) to be assigned a DOI.)
 - **Accessible**: TeSS materials/events are accessible to all registered users via the TeSS website, [widgets](../developers/code-data) or [JSON API](../developers/code-data). Your content will seen more in search results owing to our search-engine optimisation (SEO).
-- **Interoperable**: Metadata uses a standard vocabulary (EDAM for ELIXIR). We expose content using Schema.org (Bioschemas), JSON-LD, and OAI-PMH open standards.
+- **Interoperable**: Metadata uses a standard vocabulary (EDAM for ELIXIR). We expose content using ORCID, Schema.org (Bioschemas), JSON-LD, and OAI-PMH open standards.
 - **Reusable**: License is requested for all materials, such as Creative Commons.
+
+
+## ORCID for accurately recognising authors of training materials
+
+Training materials in TeSS can be attributed to any number of authors (for substantial input) and contributors (for a smaller level of input). 
+When the author or contributor is a person, their ORCID can be included.
+
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item-card}
+:link: https://orcid.org/
+{fas}`id-badge;sd-text-secondary` **ORCID**
+^^^
+
+This free, unique, persistent identifier (PID) allows individuals to be uniquely distinguished and claim credit for their scholarship work, no matter how many people have a similar name.
+:::
+::::
+
+When you [manually edit your training material in TeSS](../content/manual-events-materials), as you type the name of each author or contributor, TeSS will suggest a name and ORCID. If you are entering this person for the first time, paste their ORCID in the box after their name.
+If your training material is [automatically ingested into TeSS](../content/structured-data-types), you can add the ORCID URL of each person into the Bioschemas markup under the `@id` or `identifier` property (either property will work). For example:
+
+```json
+{
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Daniela Schneider",
+      "identifier": "https://orcid.org/0000-0001-9536-5587",
+      "@id": "https://orcid.org/0000-0001-9536-5587"
+    }
+  ]
+}
+```
 
 
 ## Integration with tools, policies, standards and data registries

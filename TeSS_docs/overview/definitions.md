@@ -22,8 +22,8 @@ ELIXIR TeSS Portal
     The [ELIXIR TeSS](https://tess.elixir-europe.org/) portal, the training registry for Europe's distributed infrastructure for life-science data, is built using the TeSS Platform.
 
 Event
-    An event in TeSS is a link to a single training event sourced by a provider along with description and other meta information (e.g. date, location, audience, ontological categorization, keywords).
-    
+    An event in TeSS is a link to a single training event sourced by a provider along with description and other meta information (e.g. date, location, audience, ontological categorization, keywords). 
+    In SciLifeLab TeSS, this is called a Course.  <br>
     Training events can be added manually or automatically harvested from a provider's website.
 
 Exchange (TeSS-X)
@@ -32,8 +32,7 @@ Exchange (TeSS-X)
     See [What do we mean by eXchange?](https://elixirtess.github.io/mTeSS-X/exchange) on the mTeSS-X project website for details.
 
 Instance
-    One installation of the TeSS Platform, on a server, managed by a technical administrator. An instance may have multiple spaces, if this option has been enabled by the administrator.
-    
+    One installation of the TeSS Platform, on a server, managed by a technical administrator. An instance may have multiple spaces, if this option has been enabled by the administrator.  <br>
     Examples of TeSS instances can be viewed on the [global usages page](global).
 
 Learning path
@@ -50,14 +49,13 @@ Space (mTeSS)
     See [Introduction to spaces](../spaces/intro-spaces) for details.
 
 TeSSHub
-    The platform name for a TeSS instance with multiple [spaces](#term-Space-mTeSS) 
+    The strategic name for a TeSS instance with multiple [spaces](#term-Space-mTeSS) 
     that can [exchange](#term-Exchange-TeSS-X) materials with other instances.
     The TeSSHub is one of the outputs from the mTeSS-X project, 
     where [ELIXIR TeSS (life sciences)](https://tess.elixir-europe.org/) 
     and [PaN-Training (photon and neutron)](https://www.panosc.eu/training-catalogue/) 
     will be running multipe spaces from the same server, appearing as distinct catalogues, 
-    and can share relevant materials. 
-    
+    and can share relevant materials. <br>
     Communities may be welcome to [request their own space](../spaces/instance-or-space/)
     on a TeSSHub, providing them with their own registry, 
     without the need to host and maintain their own instance.  
@@ -66,8 +64,7 @@ TeSS Platform
     The main codebase which is used for development, written in Ruby on Rails. The code is open source and [available on GitHub](https://github.com/ElixirTeSS/TeSS) under a BSD 3-Clause licence. 
 
 Training material
-    In the context of TeSS, a training material is a link to a single online training material sourced by a content provider (such as a text on a Web page, presentation, video) along with description and other meta information (e.g. ontological categorization, keywords).
-    
+    In the context of TeSS, a training material is a link to a single online training material sourced by a content provider (such as a text on a Web page, presentation, video) along with description and other meta information (e.g. ontological categorization, keywords). <br>
     Materials can be added manually or automatically harvested from a provider's website.
     
 Workflow
@@ -93,7 +90,9 @@ Resource Type
     The predominant category that describes the kind of learning material, for example, a presentation, video, handout, publication, poster.
 
 Scientific Topics
-    The scientific subject or field that the training material focuses on, for example, bioinformatics, genetics, biodiversity, genomics.
+    The scientific subject or field that the training material focuses on, for example, bioinformatics, genetics, biodiversity, genomics. 
+    In ELIXIR TeSS, this field uses the [EDAM ontology](https://edamontology.github.io/edam-browser/). 
+    In PaN-Training, this field uses the [PaNET ontology](https://github.com/pan-ontologies/PaNET).
 
 Keywords
     Free text about topics clearly identifying the training material.
@@ -120,9 +119,11 @@ Content Provider
 
 Authors
     Individuals who made substantial intellectual or technical contributions to the conception, design, execution of the training material.
+    This field supports freetext name and [ORCID](https://orcid.org/).
 
 Contributor
     Individuals or entities who provided specific assistance, technical input, data, or materials to the work but may not meet the full criteria for authorship.
+    This field supports freetext name and [ORCID](https://orcid.org/).
 
 Target Audience
     The intended group of users or learners for whom the training material is designed, such as researchers, students, postdocs, trainers.
@@ -138,6 +139,10 @@ Learning Objectives
 
 Events
     Workshops, seminars, conferences, summer or winter schools that contribute to or disseminate the training.
+
+Operations
+    Functions that process a set of inputs and result in a set of outputs. 
+    In ELIXIR TeSS, this field uses the [EDAM ontology for Operation](https://www.ebi.ac.uk/ols4/ontologies/edam/classes/http%253A%252F%252Fedamontology.org%252Foperation_0004?lang=en). 
 
 ```
 
@@ -256,6 +261,34 @@ Show archived materials/learning paths/collections
 
 ```
 
+## User profile
+
+Definitions of public user details associated with a TeSS use account.
+
+```{glossary}
+
+First name
+    Your first name.
+
+Last name
+    Your last name.
+
+Website
+    Your individual, professional website.
+
+ORCID
+    Your [ORCID](https://orcid.org/): a free, unique, persistent identifier (PID) that allows individuals to be uniquely distinguished and claim credit for their scholarship work, no matter how many people have a similar name.
+    You can authenticate your ORCID from the button on your user profile page.
+
+Image
+    The image displayed with your profile is the Gravatar image associated with the provided contact email address, unless you upload another image. 
+    Gravatar provides a way to link an avatar to an email address so that it can be used across sites and platforms. 
+    To set-up a linked avatar, go to the [Gravatar site](https://en.gravatar.com). 
+
+Contact email address
+    Your email address to receive essential service messages such as a password reset.
+
+```
 
 ## Roles
 
