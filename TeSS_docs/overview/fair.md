@@ -8,7 +8,7 @@ For providers, the TeSS Platform makes it easy to make resources [FAIR](http://d
 
 - **Findable**:  A unique, persistent identifier such as [DOI](https://www.doi.org/the-identifier/what-is-a-doi/) is requested for all materials. (For example, [publish your materials in Zenodo](https://help.zenodo.org/docs/get-started/quickstart/) to be assigned a DOI.)
 - **Accessible**: TeSS materials/events are accessible to all registered users via the TeSS website, [widgets](../developers/code-data) or [JSON API](../developers/code-data). Your content will seen more in search results owing to our search-engine optimisation (SEO).
-- **Interoperable**: Metadata uses a standard vocabulary (EDAM for ELIXIR). We expose content using ORCID, Schema.org (Bioschemas), JSON-LD, and OAI-PMH open standards.
+- **Interoperable**: Metadata uses a standard vocabulary (EDAM for ELIXIR). We expose content using Schema.org (Bioschemas), JSON-LD, and OAI-PMH open standards.
 - **Reusable**: License is requested for all materials, such as Creative Commons.
 
 
