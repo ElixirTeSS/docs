@@ -33,7 +33,7 @@ Global usages of the TeSS Platform
 :link: overview/mtess-x
 :link-type: doc
 
-{fas}`arrows-turn-to-dots;sd-text-secondary` **mTeSS-X**
+{fas}`boxes-stacked;sd-text-secondary` {fas}`arrows-turn-to-dots;sd-text-secondary` **mTeSS-X**
 ^^^
 
 Multi-spaces and exchange
@@ -90,6 +90,15 @@ Automatically or manually register events, materials or learning paths
 When to set up a TeSS space, how to credit other spaces' materials
 :::
 
+:::{grid-item-card}
+:link: content/exchange
+:link-type: doc
+
+{fas}`arrows-turn-to-dots;sd-text-secondary` **Exchange content**
+^^^
+
+Filter and exchange materials automatically from another TeSSHub
+:::
 
 :::{grid-item-card}
 :link: developers/code-data
