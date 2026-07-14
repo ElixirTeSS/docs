@@ -12,8 +12,8 @@ When the source is also based on TeSS, there are additional features which allow
 
 ## Which filters can I use to exchange?
 
-The TeSS Platform team have selected a list of the most useful filters to customise which materials are exchanged. 
-This list is being expanded. If a filter you need is not available, please contact us.
+TeSS provides a selection of the most useful filters to customise which materials are exchanged. 
+This list is being expanded as part of the TeSSHub4EOSC project. If a filter you need is not available, please contact us.
 
 - Target audience
 - Keyword
@@ -34,6 +34,12 @@ The following filters are available for events only:
 - Event type
 - Timezone
 
+
+
+```{admonition} See also the definitions of these terms
+:class: seealso
+* [TeSS Platform Defintions](/overview/definitions)
+```
 
 ## How do I set up an automated exchange?
 
