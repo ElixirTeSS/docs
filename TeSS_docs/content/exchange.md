@@ -10,6 +10,33 @@ When the source is also based on TeSS, there are additional features which allow
 :align: center
 ```
 
+## Which filters can I use to exchange?
+
+The TeSS Platform team have selected a list of the most useful filters to customise which materials are exchanged. 
+This list is being expanded. If a filter you need is not available, please contact us.
+
+- Target audience
+- Keyword
+- Title
+- Description (equals), Description (contains)
+- URL (equals), URL (begins)
+- DOI
+- License
+- Difficulty level
+- Resource type
+- Prerequisites (contains)
+- Learning objectives (contains)
+
+The following filters are available for events only:
+- Subtitle (equals), Subtitle (contains)
+- City
+- Country
+- Event type
+- Timezone
+
+
+## How do I set up an automated exchange?
+
 You may take the following steps to setup automated exchange between two TeSS based catalogues (a **source** and a **destination**):
 
 1) Ensure that you have the correct permissions. To set up the exchange of materials, you need to be a site **admin**, or the **owner of a 'content provider'**, of the destination TeSSHub (where the content should end up). You are the owner of content providers that you create.
