@@ -13,7 +13,7 @@ When the source is also based on TeSS, there are additional features which allow
 ## Which filters can I use to exchange?
 
 TeSS provides a selection of the most useful filters to customise which materials are exchanged. 
-This list is being expanded as part of the TeSSHub4EOSC project. If a filter you need is not available, please contact us.
+This list is being expanded as part of the [TeSSHub4EOSC project](../overview/tesshub4eosc). If a filter you need is not available, please contact us.
 
 - Target audience
 - Keyword
@@ -56,6 +56,10 @@ You may take the following steps to setup automated exchange between two TeSS ba
 9) After the source is enabled and approved, you may expect content to be exchanged and kept up to date once per day, but this may depend on the configuration of the target TeSSHub instance. 
 
 The whole process is also shown in this video. In this example, training material on Python that is not for beginners is exchanged from ELIXIR TeSS to PaN-Training:
+
 <video controls="" width="790.4" src="https://zenodo.org/api/records/18926348/files/exchange-demo.mp4/content"></video>
+
+- [Download video](https://zenodo.org/api/records/18926348/files/exchange-demo.mp4/content)
+
 Please note that the video may be slightly outdated in some cases. The instructions above may be more up to date.
 
