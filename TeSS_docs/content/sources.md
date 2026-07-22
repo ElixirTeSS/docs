@@ -25,6 +25,14 @@ Currently available **admin-managed** ingestion methods:
 
 For other methods, please [contact us](https://tess.elixir-europe.org/about/us#contact) to discuss how to register your content automatically in TeSS.
 
+## Other ingestion methods
+
+The TeSS team may be able to support other source formats and write an ingestion method for them:
+
+- **RSS feeds**: many websites publish recent posts in a standard news-feed format that can be parsed.
+- **Git repositories**: if training resources are developed in GitHub or another Git repository, TeSS can clone the repository and extract resource information. A metadata file in YAML format may be required.
+- **Other structured formats**: XML, JSON, CSV, YAML or another metadata export may also be suitable for ingestion after discussion with the TeSS team.
+
 ## Google Sheets
 
 Our preferred options are for you to provide [structured data markup](structured-data-types) directly in the webpages that describe your training materials, or provide a single page with the markup for all the materials. This may not be possible, for example, if you have technical restrictions with your content management system.

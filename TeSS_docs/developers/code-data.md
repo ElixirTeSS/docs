@@ -61,10 +61,12 @@ https://tess.elixir-europe.org/materials/how-to-make-your-messy-data-usable-open
 
 The full documentation for the TeSS JSON API can be found here:
 
-```{button-link} hhttps://tess.elixir-europe.org/api/json_api
+```{button-link} https://tess.elixir-europe.org/api/json_api
 :color: primary
 View the JSON-API documentation
 ```
+
+If you already use the old API, technical information is still available in the [legacy API documentation](https://tess.elixir-europe.org/api/legacy).
 
 
 ## Developer guides

@@ -13,6 +13,8 @@ The TeSS team would like to acknowledge the help of a number of groups and indiv
 - The ELIXIR Training Coordinators group, particularly Celia van Gelder, Patricia Palagi and Gabriella Rustici
 - The UK structural bioinformatics group, particularly Christine Orengo
 
+The TeSS platform is based on the [ELIXIR TeSS platform](https://elixir-europe.org/).
+
 ## Cite us
 
 > Niall Beard, Finn Bacall, Aleksandra Nenadic, Milo Thurston, Carole A Goble, Susanna-Assunta Sansone, Teresa K Attwood, TeSS: a platform for discovering life-science training opportunities, Bioinformatics, Volume 36, Issue 10, 15 May 2020, Pages 3290-3291, https://doi.org/10.1093/bioinformatics/btaa047
