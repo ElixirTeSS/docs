@@ -26,6 +26,9 @@ parts:
     - file: spaces/intro-spaces
     - file: spaces/instance-or-space
     - file: spaces/request-space
+  - caption: Group creation
+    chapters:
+    - file: groups/intro-groups
   - caption: Content registration
     chapters:
     - file: content/intro-content

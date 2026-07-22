@@ -10,7 +10,7 @@ The ELIXIR TeSSHub is a public instance that supports the Spaces feature (launch
 - {fas}`clipboard-check;sd-text-success` Appears as its own distinct catalogue
 - {fas}`clipboard-check;sd-text-success` Can exchange materials with other TeSS instances and spaces
 - {fas}`clipboard-check;sd-text-success` Support from the global TeSS community
-- {fas}`clipboard-check;sd-text-success` Open and public[^freespace]
+- {fas}`clipboard-check;sd-text-success` Open and public[^freespace] or private (only people being in specific groups have access)
 - {fas}`clipboard-check;sd-text-success` No installation or server required
 - {fas}`clipboard-question;sd-text-warning`  Limited technical customisation options  
 
