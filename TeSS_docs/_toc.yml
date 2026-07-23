@@ -10,6 +10,7 @@ parts:
     - file: overview/about
     - file: overview/global
     - file: overview/mtess-x
+    - file: overview/tesshub4eosc
     - file: overview/definitions
     - file: overview/what-we-catalogue
     - file: overview/fair
