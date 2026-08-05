@@ -46,7 +46,7 @@ To perform a filtered search on a particular type of training:
 1. In the top menu, click the type of training you wish to search.
 2. You can enter **keywords** in the search box above the results.
 3. You can **sort** results by date or title using the control on the left.
-4. You can **filter** results by multiple paramaters using the controls on the left.
+4. You can **filter** results by multiple parameters using the controls on the left.
   - For example, search across all spaces in a TeSS instance by clicking 'Show materials from all spaces'.
 5. You can move through the pages of results at the bottom of the page.
 
