@@ -4,9 +4,9 @@ A TeSS instance is viewable by everyone, you do not need to register to search o
 The materials that TeSS points to may be restricted-access, but the registry itself is open.
 If you want to register your materials, you can register for a user account.
 
-```{admonition} Note for mutli-space TeSS instances
+```{admonition} Note for multi-space TeSS instances
 :class: note
-If a TeSS instanace has multiple [spaces](../spaces/intro-spaces), please register one user account for all spaces. 
+If a TeSS instance has multiple [spaces](../spaces/intro-spaces), please register one user account for all spaces. 
 For security reasons, if the spaces are on different domains (`site1.com` and `site2.com`), you will need to log in to each space separately, even though you are using the same account.
 ```
 
