@@ -48,6 +48,10 @@ Space (mTeSS)
     Each community registers, maintains and curates their material for their members in their own virtual space in the common portal environment.
     See [Introduction to spaces](../spaces/intro-spaces) for details.
 
+Group
+    A group is an entity which is used to control access to private spaces. A group can have multiple owners, who can add and remove people from a group.
+    See [Introduction to groups](../groups/intro-groups) for details.
+
 TeSSHub
     The strategic name for a TeSS instance with multiple [spaces](#term-Space-mTeSS) 
     that can [exchange](#term-Exchange-TeSS-X) materials with other instances.

@@ -17,7 +17,7 @@ Further details about the governance of spaces are decided by the administration
 To request a new space on TeSS:
 
 1. Select a TeSS instance with multiple spaces for your request.
-2. Prepare the following details of the new space: Title, Description, Image (logo for your community), Administrators (list of TeSS usernames to be space managers).
+2. Prepare the following details of the new space: Title, Description, Image (logo for your community), Administrators (list of TeSS usernames to be space managers), whether the space is private and, if so, which groups are required (you can ask to create new groups for your specific use case).
 3. Select a theme (see below): Default, Green, Blue, Space, Dark.
 4. Send these details to the administrator of the TeSS instance.
 5. You will be informed of the outcome shortly.
