@@ -6,10 +6,10 @@ The request will be processed by an administration team.
 If the request is approved, the administration team will create the space for you. 
 Further details about the governance of spaces are decided by the administration team of each TeSS instance.
 
-```{admonition} The following TeSS instances support mutiple spaces:
+```{admonition} The following TeSS instances support multiple spaces:
 :class: seealso
-* ELIXIR TeSS (coming soon; until then, see [ELIXIR TeSS sandbox](https://dev.tess.elixir-europe.org/spaces))
-* PaN Training (coming soon; until then, see [de.KCD test space](https://kcd.tesshub.hzdr.de/))
+* [ELIXIR TeSSHub](https://tesshub.org/) is the home of [ELIXIR TeSS](https://tess.elixir-europe.org/). It has Spaces for [PaN-Training](https://pan-training.tesshub.org/) and [Bioconductor](https://bioconductor.tesshub.org/). You can [request a space in TeSSHub.org](https://docs.google.com/forms/d/e/1FAIpQLSeNPKIsL3Ot-a5XHMogeTIe3duft6bdK4Q-elFmgw26fT6GZQ/viewform?usp=sharing&ouid=118376385452187767793).
+* [PaN-Training TeSSHub](https://pan-training.tesshub.hzdr.de/) is the home of PaN-Training. It has Spaces for ELIXIR, [DALIA](https://dalia.tesshub.hzdr.de/), [OERSI](https://oersi.tesshub.hzdr.de/) and others.
 * Other instances to be announced
 ```
 
