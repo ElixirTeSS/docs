@@ -29,6 +29,11 @@ Use the tabs at the top of the page to browse events or materials separately the
 
 Browsing by events or materials allows more precise filtering on several parameters (such as event type, country, and target audience), alone or in combination. You can also search for content providers, users and other types of training.
 
+```{admonition} Note for multi-space TeSS instances
+:class: note
+If a TeSS instance has multiple [spaces](../spaces/intro-spaces), your search results will be limited to the current space by default. To search across all spaces, use the filter described below. A TeSSHub may also have a cross-space search feature.  
+```
+
 
 ## General search
 
