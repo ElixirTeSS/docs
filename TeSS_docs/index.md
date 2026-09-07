@@ -127,7 +127,9 @@ The authors acknowledge the [OSCARS project](https://www.oscars-project.eu/proje
 :::
 ::::
 
-TeSS has been funded by:
+Development on the TeSS platform is largely made possible thanks to [funded research projects](overview/projects).
+
+TeSS has also been funded by:
 
 - [BioFAIR](https://biofair.uk/) Short Term Funding Award GP312
 - European Commission, Horizon 2020 Research Infrastructures programme (ELIXIR-EXCELERATE, [grant agreement number 676559](https://cordis.europa.eu/project/rcn/198519_en.html));
