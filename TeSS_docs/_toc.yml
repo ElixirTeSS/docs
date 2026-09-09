@@ -12,6 +12,7 @@ parts:
       sections:
       - file: overview/mtess-x
       - file: overview/tesshub4eosc
+      - file: overview/bits
     - file: overview/definitions
     - file: overview/what-we-catalogue
     - file: overview/fair
