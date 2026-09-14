@@ -81,3 +81,9 @@ Training and events to foster research software quality in Europe
 ::::
 
 If you are maintaining an instance of TeSS and would like us to include it here, please [contact us](https://tess.elixir-europe.org/about/us#contact).
+
+The following instances support [spaces](../spaces/intro-spaces) (see also how to [request a space](../spaces/request-space/)):
+
+- ELIXIR TeSS
+- PaN Training
+- HEP Training (private spaces only)
