@@ -17,7 +17,7 @@ The original TeSS portal, computational resources for life sciences for ELIXIR E
 
 :::{grid-item-card}
 :link: https://pan-training.eu/
-{fas}`earth-europe;sd-text-secondary` **PaN Training Catalogue**
+{fas}`earth-europe;sd-text-secondary` **PaN-Training Catalogue**
 ^^^
 ![PaN Training logo](../images/overview/pan-training-logo.png)
 +++
@@ -84,6 +84,6 @@ If you are maintaining an instance of TeSS and would like us to include it here,
 
 The following instances support [spaces](../spaces/intro-spaces) (see also how to [request a space](../spaces/request-space/)):
 
-- ELIXIR TeSS
-- PaN Training
+- ELIXIR TeSS (ELIXIR TeSSHub)
+- PaN-Training (Helmholtz TeSSHub)
 - HEP Training (private spaces only)
