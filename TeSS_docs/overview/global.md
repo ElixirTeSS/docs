@@ -84,6 +84,6 @@ If you are maintaining an instance of TeSS and would like us to include it here,
 
 The following instances support [spaces](../spaces/intro-spaces) (see also how to [request a space](../spaces/request-space/)):
 
-- ELIXIR TeSS (ELIXIR TeSSHub)
-- PaN-Training (Helmholtz TeSSHub)
+- ELIXIR TeSS ([ELIXIR TeSSHub](https://tesshub.org/))
+- PaN-Training ([Helmholtz TeSSHub](https://tesshub.helmholtz.cloud))
 - HEP Training (private spaces only)
