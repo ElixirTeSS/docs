@@ -9,7 +9,7 @@ Further details about the governance of spaces are decided by the administration
 ```{admonition} The following TeSS instances support multiple spaces:
 :class: seealso
 * [ELIXIR TeSSHub](https://tesshub.org/) is the home of [ELIXIR TeSS](https://tess.elixir-europe.org/). It has Spaces for [PaN-Training](https://pan-training.tesshub.org/) and [Bioconductor](https://bioconductor.tesshub.org/). You can [request a space in TeSSHub.org](https://docs.google.com/forms/d/e/1FAIpQLSeNPKIsL3Ot-a5XHMogeTIe3duft6bdK4Q-elFmgw26fT6GZQ/viewform?usp=sharing&ouid=118376385452187767793).
-* [PaN-Training TeSSHub](https://pan-training.tesshub.hzdr.de/) is the home of PaN-Training. It has Spaces for ELIXIR, [DALIA](https://dalia.tesshub.hzdr.de/), [OERSI](https://oersi.tesshub.hzdr.de/) and others.
+* [Helmholtz TeSSHub](https://tesshub.helmholtz.cloud) is the home of [PaN-Training](https://pan-training.eu/). It also has Spaces for ELIXIR, [DALIA](https://dalia.tesshub.hzdr.de/), [OERSI](https://oersi.tesshub.hzdr.de/) and others.
 * Other instances to be announced
 ```
 
