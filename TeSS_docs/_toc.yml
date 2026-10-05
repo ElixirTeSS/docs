@@ -46,6 +46,7 @@ parts:
       - file: content/collections
       - file: content/workflows
       - file: content/learning-paths
+    - file: content/curation
   - caption: Developers
     chapters:
     - file: developers/code-data
