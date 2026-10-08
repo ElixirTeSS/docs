@@ -96,3 +96,4 @@ The following instances support [spaces](../spaces/intro-spaces) (see also how t
 - ELIXIR TeSS ([ELIXIR TeSSHub](https://tesshub.org/))
 - PaN-Training ([Helmholtz TeSSHub](https://tesshub.helmholtz.cloud))
 - HEP Training (private spaces only)
+- TeSSHub4EOSC (spaces for EOSC Nodes, clusters and communities only)
