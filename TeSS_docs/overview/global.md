@@ -78,6 +78,15 @@ Training and events for the High Energy Physics community
 Training and events to foster research software quality in Europe
 :::
 
+:::{grid-item-card}
+:link: https://tesshub4eosc.eu/
+{fas}`earth-europe;sd-text-secondary` **TeSSHub4EOSC**
+^^^
+![TeSSHub4EOSC logo](../images/overview/tesshub4eosc-logo.png)
++++
+Pilot hub of community-managed training catalogues for EOSC Nodes.
+:::
+
 ::::
 
 If you are maintaining an instance of TeSS and would like us to include it here, please [contact us](https://tess.elixir-europe.org/about/us#contact).
@@ -87,3 +96,4 @@ The following instances support [spaces](../spaces/intro-spaces) (see also how t
 - ELIXIR TeSS ([ELIXIR TeSSHub](https://tesshub.org/))
 - PaN-Training ([Helmholtz TeSSHub](https://tesshub.helmholtz.cloud))
 - HEP Training (private spaces only)
+- TeSSHub4EOSC (spaces for EOSC Nodes, clusters and communities only)
