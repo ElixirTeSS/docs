@@ -41,7 +41,7 @@ The following filters are available for events only:
 * [TeSS Platform Defintions](/overview/definitions)
 ```
 
-## How do I set up an automated exchange?
+## How do I set up an automated exchange from another TeSS instance?
 
 You may take the following steps to setup automated exchange between two TeSS based catalogues (a **source** and a **destination**):
 
@@ -63,3 +63,19 @@ The whole process is also shown in this video. In this example, training materia
 
 Please note that the video may be slightly outdated in some cases. The instructions above may be more up to date.
 
+
+## How do I set up an automated exchange from something other than TeSS?
+
+You can automate exhange into a TeSS based catalogue (a **destination**) starting from a non-TeSS based catalogue (a **source**), if the catalogue supports [OAI-PMH](https://www.openarchives.org/pmh/). 
+Step 3 will need to be modified slightly depending on your particular catalogue platform.
+To setup automated exchange, you may take the following steps:
+
+1) Ensure that you have the correct permissions. To set up the exchange of materials, you need to be a site **admin**, or the **owner of a 'content provider'**, of the destination TeSSHub (where the content should end up). You are the owner of content providers that you create.
+2) Go to the source catalogue instance (where the training should come from) and understand what metadata (set of filters) is used there to describe the particular set of training content that should be exchanged.
+3) In the source instance, find and copy an OAI-PMH link.
+4) Go to the content provider in the target TeSSHub instance (where the exchanged content should be associated with), open the 'Sources' tab then click the 'Add source' button.
+5) Enter the URL that you copied in step 3 into the URL field and select 'OAI-PMH' as the ingestion method.
+6) If you are ready for the materials to be automatically exchanged, check the 'Enabled' checkbox; otherwise, if you just want to create the source as a draft, don't check this checkbox. If you are an administrator, you may also directly set the new source as 'Approved' to enable it. Everyone else will need to wait until an administrator approves the source before content starts to be exchanged.
+7) You may add **filter conditions** to not exchange the whole content of the source TeSSHub. Only content that satisfies all the conditions in the 'Allow' list and none of the conditions in the 'Block' list is exchanged. For more complex cases where either one set of conditions or another set of conditions but not necessarily all the conditions should be satisfied for exchange, feel free to create multiple sources for each set of conditions.
+8) Save the source using the 'Register Source' button.
+9) After the source is enabled and approved, you may expect content to be exchanged and kept up to date once per day, but this may depend on the configuration of the target TeSSHub instance. 
