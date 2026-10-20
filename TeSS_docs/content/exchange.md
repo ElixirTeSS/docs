@@ -15,26 +15,44 @@ When the source is also based on TeSS, there are additional features which allow
 TeSS provides a selection of the most useful filters to customise which materials are exchanged. 
 This list is being expanded as part of the [TeSSHub4EOSC project](../overview/tesshub4eosc). If a filter you need is not available, please contact us.
 
-- Target audience
-- Keyword
-- Title
-- Description (equals), Description (contains)
-- URL (equals), URL (begins)
-- DOI
-- License
-- Difficulty level
-- Resource type
-- Prerequisites (contains)
-- Learning objectives (contains)
+| Filtered property in TeSS (*material or event*) | Exchanged property in Dublin Core    |
+|:------------------------------------------------|:-------------------------------------|
+| Target audience                                 | (None)                               |
+| Keyword                                         | `dc:subject`                         |
+| Title                                           | `dc:title`                           |
+| Description (equals), Description (contains)    | `dc:description` convert to text     |
+| URL (equals), URL (begins)                      | `dc:identifier` if http(s)           |
+| DOI                                             | `dc:identifier` if DOI, store as URI |
+| License  (*material only*)                      | `dc:rights`                          |
+| Difficulty level                                | (None)                               |
+| Resource type                                   | `dc:type` *                          |
+| Prerequisites (contains)                        | (None)                               |
+| Learning objectives (contains)                  | (None)                               |
 
-The following filters are available for events only:
-- Subtitle (equals), Subtitle (contains)
-- City
-- Country
-- Event type
-- Timezone
+*When exchanging materials using Dublin Core/[OAI-PMH](https://www.openarchives.org/pmh/), if the `dc:type` includes `http://purl.org/dcmitype/Event` then the item is imported as a TeSS event, else it is imported as a TeSS material. 
 
+The following filters are available for *events only*:
 
+| Filtered property in TeSS (event only) | Exchanged property in Dublin Core |
+|:---------------------------------------|:------------------------|
+| Subtitle (equals), Subtitle (contains) | (None) |
+| City                                   | (None) |
+| Country                                | (None) |
+| Event type                             | (None) |
+| Timezone                               | (None) |
+
+The following properties can also be populated when exchanging materials but without filter controls:
+
+| Non-filtered property in TeSS                   | Exchanged property in Dublin Core |
+|:------------------------------------------------|:----------------------------------|
+| Contact                                         | `dc:publisher`                    |
+| Authors (*materials*), Organizer (*events*)     | `dc:creator`                      |
+| Language (*event only*)                         | `dc:language`                     |
+| Scientific Topics                               | `dc:subject`                      |
+| Date created (*material*), Start date (*event*) | `dc:date` earliest date found **  |
+| Date modified (*material*), End date (*event*)  | `dc:date` latest date found **    |
+
+**When exchanging materials using Dublin Core/[OAI-PMH](https://www.openarchives.org/pmh/), if the item is interpreted as a TeSS event, the `dc:date` properties are sorted in date order, and the earliest date found becomes the start of the event, the latest date found becomes the end date of the event. If the item is interpreted as a TeSS material, these become the date created and date modified, respectively.
 
 ```{admonition} See also the definitions of these terms
 :class: seealso
@@ -67,6 +85,7 @@ Please note that the video may be slightly outdated in some cases. The instructi
 ## How do I set up an automated exchange from something other than TeSS?
 
 You can automate exhange into a TeSS based catalogue (a **destination**) starting from a non-TeSS based catalogue (a **source**), if the catalogue supports [OAI-PMH](https://www.openarchives.org/pmh/). 
+The [mapping of properties from DC terms to TeSS](#which-filters-can-i-use-to-exchange) is defined above.
 Step 3 will need to be modified slightly depending on your particular catalogue platform.
 To setup automated exchange, you may take the following steps:
 
