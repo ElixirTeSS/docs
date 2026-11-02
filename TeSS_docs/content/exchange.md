@@ -74,9 +74,7 @@ The following properties can also be populated during exchange, but have no dedi
 | Start date (*event only*) | `schema:startDate`; first successfully parsed `dc:date` |
 | End date (*event only*) | `schema:endDate`; last successfully parsed `dc:date` |
 
-Dublin Core dates are used in the order supplied, not sorted chronologically. For events with only one successfully parsed date, that date supplies both the start and end dates.
-
-Dublin Core `dc:subject` values populate keywords, not scientific topics. `dc:language` is not currently imported.
+The first date in Dublin Core `dc:date` is considdered the start date and the last one the end date. For events with only one successfully parsed date, that date supplies both the start and end dates.
 
 ```{admonition} See also the definitions of these terms
 :class: seealso
