@@ -54,10 +54,10 @@ The following filters are available for *events only*:
 
 | Filtered property in TeSS | Exchanged properties |
 |:-------------------------|:---------------------|
-| Subtitle (equals), Subtitle (contains) | `schema:alternateName` |
+| Subtitle (equals / contains) | `schema:alternateName` |
 | City | `schema:location` → `schema:address` → `schema:addressLocality` |
 | Country | `schema:location` → `schema:address` → `schema:addressCountry` |
-| Event type | Set to "Workshops and courses" for RDF course instances; `dc:type` for Dublin Core events |
+| Event type | Set to `workshops_and_courses` for RDF course instances; `dc:type` for Dublin Core events. |
 | Timezone | Not currently populated from exchanged metadata |
 
 The following properties can also be populated during exchange, but have no dedicated filter controls:
@@ -87,14 +87,14 @@ Dublin Core `dc:subject` values populate keywords, not scientific topics. `dc:la
 
 You may take the following steps to set up automated exchange between two TeSS-based catalogues (a **source** and a **destination**):
 
-1) Ensure that you have the correct permissions. To set up the exchange of materials, you need to be a site **admin**, or the **owner of a content provider**, in the destination TeSSHub (where the content should end up). You are the owner of content providers that you create.
-2) Go to the source TeSSHub instance (where the training should come from) and understand what metadata (set of filters) is used there to describe the particular set of training content that should be exchanged. 
+1) Ensure that you have the correct permissions. To set up exchange, you need to be a site **admin** or **curator**, or the **owner or an editor of a content provider**, in the destination TeSSHub (where the content should end up). Provider owners and editors can create sources only when user source creation is enabled in the destination instance. You are the owner of content providers that you create. For non-admin users, the destination must also include `oai_pmh` among its permitted ingestion methods; contact an administrator if 'OAI-PMH' is unavailable.
+2) Go to the source TeSSHub instance (where the training should come from) and understand what metadata (set of filters) is used there to describe the particular set of training content that should be exchanged.
 3) In the source instance, at the top of the list of training materials, go to the 'Subscribe' menu, click 'Harvest using OAI-PMH', and copy the OAI-PMH link.
 4) Go to the content provider in the destination TeSSHub instance, open the 'Sources' tab, then click the 'Add source' button.
 5) Enter the URL that you copied in step 3 into the URL field and select 'OAI-PMH' as the ingestion method.
-6) If you are ready for the materials to be automatically exchanged, check the 'Enabled' checkbox; otherwise, leave it unchecked to save the source as a draft. If you are an administrator, you may also directly set the new source as 'Approved'. Everyone else will need to wait until an administrator approves the source before content starts to be exchanged.
+6) If you are ready for the materials to be automatically exchanged, check the 'Enabled' checkbox; otherwise, leave it unchecked to save the source as a draft. If you are an administrator, you may also directly set the new source as 'Approved'. Everyone else will need administrator approval before content starts to be exchanged, and should request it after saving as described in step 8.
 7) You may add **filter conditions** to exchange only part of the source's content. Only content that satisfies all conditions in the 'Allow' list and none of the conditions in the 'Block' list is exchanged. To exchange content matching alternative sets of conditions, create a separate source for each set.
-8) Save the source using the 'Register Source' button.
+8) Save the source using the 'Register Source' button. If the source needs administrator approval, click **'Request Approval'** on the saved source's page when it is ready for review. Saving alone does not submit an approval request. You will not be able to modify the source while approval is pending.
 9) After the source is enabled and approved, content is normally exchanged and kept up to date once per day, depending on the configuration of the destination TeSSHub instance.
 
 The whole process is also shown in this video. In this example, training material on Python that is not for beginners is exchanged from ELIXIR TeSS to PaN-Training:
@@ -108,8 +108,10 @@ Please note that the video may be slightly outdated in some cases. The instructi
 
 ## How do I set up an automated exchange from something other than TeSS?
 
-You can automate exchange into a TeSS-based catalogue from a non-TeSS catalogue if the source supports OAI-PMH with compatible Bioschemas RDF or Dublin Core metadata.
+You can automate exchange into a TeSS-based catalogue from a non-TeSS catalogue if the source supports OAI-PMH with compatible Bioschemas RDF or Dublin Core metadata (Dublin Core metadata is required in OAI-PMH).
 
 The [supported properties and filters](#which-filters-can-i-use-to-exchange) are listed above. Sources offering only Dublin Core provide fewer properties, so some filters may not be usable.
 
 Follow the [steps for exchange from another TeSS instance](#how-do-i-set-up-an-automated-exchange-from-another-tess-instance), but obtain the source's OAI-PMH endpoint URL from its documentation or administrator instead of using the TeSS 'Subscribe' menu.
+
+For other ways to import content automatically, including from sources that do not support OAI-PMH, see [Automatic content registration](auto).
